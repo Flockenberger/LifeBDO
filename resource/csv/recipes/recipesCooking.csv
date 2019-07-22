@@ -1,0 +1,105 @@
+Good Feed;800;Apprentice 1;Pet Food +40;1 Fish;6 Meat;4 Flour;3 Mineral Water;
+Honeycomb Cookie;1000;Apprentice 6;Weight Limit +50 Fishing Speed 1;6 Honey;4 Dough;2 Egg;4 Milk;
+Dressing;400;Beginner 1;None;1 Egg;1 Mineral Water;1 Olive Oil;2 Salt;
+Essence of Liquor;400;Beginner 1;None;1 Flour;1 Fruit;1 Leavening Agent;;
+Exotic Herbal Wine;400;Beginner 1;Fishing Speed +1;3 Dough;1 Essence of Liquor;5 Mineral Water;2 Leavening Agent;
+Fruit Juice;400;Beginner 1;MP +30;4 Fruit;3 Sugar;5 Mineral Water;1 Salt;
+Grain Soup;400;Beginner 1;Gathering Speed +1;6 Starch;3 Mineral Water;3 Cooking Wine;1 Salt;
+High-Quality Carrot Juice;400;Beginner 1;Horse HP +200;1 High-Quality Carrot;3 Flour;3 Sugar;4 Mineral Water;
+Red Sauce;400;Beginner 1;None;1 Meat;1 Base Sauce;2 Sugar;2 Mineral Water;
+Vinegar;400;Beginner 1;None;1 Fruit;1 Starch;1 Leavening Agent;1 Sugar;
+White Sauce;400;Beginner 1;None;1 Fruit;1 Milk;1 Base Sauce;2 Cooking Wine;
+Aloe Cookie;400;Beginner 6;Accuracy +4;5 Aloe;7 Dough;3 Honey;4 Sugar;
+Aloe Yogurt;400;Beginner 6;Fishing Speed +1;5 Aloe;2 Milk;3 Sugar;3 Leavening Agent;
+Boiled Bird Eggs;400;Beginner 6;AP +1;3 Egg;6 MIneral Water;1 Cooking Wine;1 Salt;
+Fried Vegetables;400;Beginner 6;HP Recovery +2;4 Vegetable;4 Dough;2 Egg;2 Deep Frying Oil;
+Fruit Pudding;400;Beginner 6;MP Recovery +2;5 Fruit;1 Cream;3 Milk;2 Sugar;
+Grilled Sausage;400;Beginner 6;AP +1;6 Meat;1 Onion;2 Pepper;2 Salt;
+Lizard Kebab;400;Beginner 6;Stamina +100;6 Reptile Meat;2 Red Sauce;3 Onion;7 Starch;
+Meat Soup;400;Beginner 6;Critical Hit Rate +1;5 Meat;1 Pepper;2 Cream;4 Mineral Water;
+Meat Stew;400;Beginner 6;Max HP +30;5 Meat;2 Flour;3 Mineral Water;2 Cooking Wine;
+Seafood Grilled with Butter;400;Beginner 6;Attack Speed +1;1 Seafood;3 Butter;2 Salt;1 Olive Oil;
+Seafood Mushroom Salad;400;Beginner 6;Wegiht Limit +20;1 Seafood;1 Fortune Teller Mushroom;2 Dressing;;
+Soft Bread;400;Beginner 6;Stamina +100;6 Dough;2 Egg;3 Milk;2 Leavening Agent;
+Steamed Fish;400;Beginner 6;All Accuracy +4;1 Fish;2 Garlic;3 Mineral Water;2 Salt;
+Stir-Fried Seafood;400;Beginner 6;Casting Speed +1;1 Seafood;4 Vegetable;2 White Sauce;2 Hot Pepper;
+Stir-Fried Vegetables;400;Beginner 6;Jump Height +1;5 Vegetable;2 Hot Pepper;2 Olive Oil;1 Salt;
+Teff Bread;400;Beginner 6;Cook Alch time reduction .3s;5 Teff Flour;3 Mineral Water;2 Salt;2 Leavening Agent;
+Fried Fish;400;Apprentice 1;Move speed +1;1 Fish;3 Flour;2 Deep Frying Oil;;
+Sweet Honey Wine;400;Apprentice 1;None;2 Top-Quality Cooking Honey;4 Full-bodied Exotic Herbal Wine;10 Sugar;2 Fruit Wine;
+Special Carrot Juice;700;Beginner 6;Horse HP +300;1 Special Carrot;3 Flour;3 Sugar;4 Mineral Water;
+Borscht;700;Apprentice 1;Max Energy +10;7 Fragrant Jerky;3 Milk;1 Cinnamon;2 Mineral Water;
+Desert Dumpling;700;Apprentice 1;Stamina +200;6 Reptile Meat;6 Dough;1 Cinnamon;2 Olive Oil;
+Fig Pie;700;Apprentice 1;Gathering result +3%;5 Fig;3 Dough;3 Sugar;2 Olive Oil;
+Fish Fillet Chips;700;Apprentice 1;Worker Stamina +5;2 Fish;3 White Sauce;7 Flour;2 Salt;
+Fish Fillet Salad;700;Apprentice 1;Move speed +1;2 Fish;2 Dressing;3 Onion;2 Cheese;
+Fish Soup;700;Apprentice 1;Critical Hit Rate +1;1 Fish;3 Flour;2 Cream;6 Mineral Water;
+Freekeh Snake Stew;700;Apprentice 1;Worker Stamina +5;3 Snake Meat;6 Freekeh;2 Star Anise;5 Mineral Water;
+Fried Bird;700;Apprentice 1;HP Recovery +5;7 Bird Meat;4 Flour;2 Egg;3 Pepper;
+Fruit and Vegetable Salad;700;Apprentice 1;MP Recovery +5;4 Fruit;4 Vegetable;1 Vinegar;2 Cooking Wine;
+Fruit Wine;700;Apprentice 1;Fishing Speed +1;5 Fruit;1 Exotic Herbal Wine;3 Essence of Liquor;2 Mineral Water;
+Honey Wine;700;Apprentice 1;DMG Reduction +2;3 Honey;2 Essence of Liquor;2 Sugar;6 Mineral Water;
+Meat Pasta;700;Apprentice 1;Weight Limit +40;5 Meat;4 Dough;3 Pepper;2 Garlic;
+Meat Pie;700;Apprentice 1;Stamina +200;4 Meat;6 Dough;2 Sugar;2 Olive Oil;
+Oatmeal;700;Apprentice 1;Worker Stamina +5;9 Flour;3 Milk;3 Onion;2 Honey;
+Omelet;700;Apprentice 1;DMG Reduction +2;5 Starch;5 Egg;2 Olive Oil;2 Salt;
+Pickled Fish;700;Apprentice 1;Amity +5%;1 Fish;2 Vinegar;2 Leavening Agent;4 Salt;
+Pickled Vegetables;700;Apprentice 1;Gathering Speed +1;8 Vegetable;4 Vinegar;2 Leavening Agent;2 Sugar;
+Seafood Pasta;700;Apprentice 1;Casting Speed +1;2 Seafood;5 Dough;3 Garlic;3 Cooking Wine;
+Smoked Fish Steak;700;Apprentice 1;Attack Speed +1;2 Fish;2 Salt;3 Olive Oil;;
+Steak;700;Apprentice 1;HP +50;8 Meat;2 Red Sauce;2 Garlic;2 Salt;
+Steamed Bird;700;Apprentice 1;Combat EXP +3%;5 Bird Meat;3 Vegetable;2 Essence of Liquor;2 Vinegar;2 Salt
+Steamed Seafood;700;Apprentice 1;Accuracy +6;2 Seafood;3 Hot Pepper;6 Mineral Water;2 Salt;
+Stir-Fried Meat;700;Apprentice 1;AP +2;7 Meat;2 Onion;3 Hot Pepper;2 Base Sauce;
+Tea With Fine Scent;700;Apprentice 1;MP +50;4 Plants;4 Fruit;3 Honey;7 Mineral Water;
+Hunter's Salad;800;Apprentice 1;Hunting DMG +1000;1 Soft Whale Meat;2 Vinegar;2 Dressing;5 Garlic;
+Pan-Fried Oyster;800;Artisan 1;Attack/Cast Speed +2 Stune res +10%;3 Oyster;2 Egg;5 Flour;2 Vinegar;3 Olive Oil
+Rainbow Button Mushroom Cheese Melt;800;Artisan 1;Back Attack Damaged +5%;1 Rainbow Button Mushroom;2 Meat;2 Cheese;3 Salt;4 Olive Oil
+Rainbow Button Mushroom Sandwich;800;Artisan 1;Max HP/Stamina +150;1 Rainbow Button Mushroom;1 Soft Bread;2 Cream;2 Onion;4 Olive Oil
+Coconut Cocktail;800;Professional 1;Fish Time -5%;2 Coconut;1 Exotic Herbal Wine;2 Essence of Liquor;1 Fruit;5 Mineral Water
+Coconut Fried Fish;800;Professional 1;Move Speed +1 Critical +1;3 Coconut;1 Fish;2 Egg;3 Dough;4 Deep Frying Oil
+Coconut Pasta;800;Professional 1;Heat Sunstroke resistence 10%;2 Coconut;2 Onion;4 Garlic;5 Dough;1 White Sauce
+Butter-Roasted Lobster;800;Skilled 1;Crit +2 Knockdown res +10%;1 Lobster;4 Butter;5 Salt;5 Olive Oil;3 Garlic
+Grilled Bird Meat;800;Skilled 1;Worker Stamina +3/4;2 Bird Meat;6 Deep Frying Oil;2 Cooking wine;1 Salt;
+Hard-Boiled Shellfish;800;Skilled 1;Gather rank +2 UnderwaterBreathing +10s;2 Seafood;5 Essence of Liquor;5 Garlic;5 Hot Pepper;5 Olive Oil
+Prawn Salad;800;Skilled 1;Weight +40lt Knockback/Float res +10%;2 Shrimp;3 Olive Oil;2 Salt;3 Egg;2 Fruit and Vegetable Salad
+Steamed Prawn;800;Skilled 1;Move +2 Grapple Res +10%;4 Shrimp;3 Paprika;2 Hot Pepper;3 Cooking Wine;4 Mineral Water
+Five-Grain Chicken Porridge;800;Skilled 5;Amity +5%;2 Ground Bird Meat;2 Mineral Water;3 Starch;;
+Pistachio Fried Rice;1000;Beginner 6;Processing +3% Chance;4 Pistachio;6 Teff;2 Cinnamon;2 Salt;
+Meat Croquette;1000;Apprentice 1;Combat EXP +5%;8 Meat;5 Flour;2 Egg;2 Cheese;4 Deep Frying Oil
+Cheese Gratin;1000;Apprentice 6;HP +70 Attack Speed 1;1 Grilled Sausage;5 Dough;4 Vegetable;3 Cheese;3 Red Sauce
+Cheese Pie;1000;Apprentice 6;Worker Stamina +7;4 Dough;7 Cheese;3 Butter;3 Egg;
+Date Palm Wine;1000;Apprentice 6;Evasion;5 Date Palm;2 Essence of Liquor;1 Sugar;4 Leavening Agent;
+Fruit Pie;1000;Apprentice 6;MP +70 Casting Speed 1;6 Fruit;6 Dough;3 Cream;4 Sugar;
+Lean Meat Salad;1000;Apprentice 6;DMG Reduction 3 HP recovery 5;8 Meat;2 Vinegar;3 Pepper;4 Dressing;
+Meat Sandwich;1000;Apprentice 6;Move Speed 1 Stamina 200;1 Soft Bread;7 Meat;6 Vegetable;3 Cheese;
+Hard-boiled Gargoyle Leg;1000;Artisan 1;None;1 Gargoyle Leg;2 Exotic Herbal Wine;3 Onion;3 Garlic;2 Vinegar
+Stir-fried Gazelle Hind Leg;1000;Artisan 1;None;1 Gazelle Hind Leg;4 Garlic;5 Olive Oil;3 Cabbage;5 Salt
+Dark Pudding;1000;Skilled 1;AP +3 DMG Against Humans +2;1 Oatmeal;1 Pickled Vegetables;5 Bird Meat;7 Blood 2;
+Grilled Scorpion;1000;Skilled 1;Monster DMG Decrease;3 Scorpion Meat;2 Butter;3 Nutmeg;3 Hot Pepper;
+Ham Sandwich;1000;Skilled 1;AP +3 ACC +8;2 Soft Bread;2 Grilled Sausage;5 Vegetable;4 Egg;
+Milk Tea;1000;Skilled 1;Combat EXP +8%;2 Tea With Fine Scent;2 Flour;3 Milk;3 Honey;
+Steamed Whale Meat;1000;Skilled 1;DMG Reduction +2 Evasion +8;1 Blue Whale Meat;1 Honey Wine;4 Garlic;6 Mineral Water;2 Salt
+Sute Tea;1000;Skilled 1;Life EXP +8%;2 Tea With Fine Scent;2 Butter;3 Milk;1 Salt;
+Whale Meat Salad;1000;Skilled 1;Life EXP +10%;1 Blue Whale Meat;6 Vegetable;2 Dressing;3 Egg;4 Pepper
+Assorted Side Dishes;1100;Apprentice 6;Life EXP +5%;1 Fried Bird;2 Seafood;3 Cheese;5 Fruit;
+Organic Feed;1200;Apprentice 6;Pet Food +70;2 Fish;2 Oatmeal;5 Meat;4 Bird Meat;
+Couscous;1200;Skilled 6;Processing +5% Chance;1 Freekeh Snake Stew;6 Teff Flour Dough;3 Nutmeg;4 Vegetable;
+Khalk's Fermented Wine;1600;Professional 1;All Attack 7 Move Speed 1 Hp Recovery 10 Hunting +700;1 Fugitive Khalk's Horn;5 Honey Wine;6 Date Palm;6 Leavening Agent;6 Sugar
+King of Jungle Hamburg;1600;Professional 1;All Resistance 3% Critical DMG increase;4 Lion Meat;4 Teff Bread;2 Pickled Vegetables;3 Nutmeg;
+Teff Sandwich;1600;Professional 1;Cook Alch time reduction .5s;1 Teff Bread;1 Grilled Scorpion;1 Freekeh Snake Stew;3 Red Sauce;
+Mediah Meal;1600;Skilled 1;Attack +5 Attack Speed +1 Casting Speed +1;1 Dark Pudding;1 Oatmeal;2 Grilled Sausage;1 Lean Meat Salad;2 Exotic Herbal Wine
+Balenos Meal;1600;Skilled 6;Move Speed 2 Fishing Speed 2 Gather Speed 2;1 Cheese Gratin;1 Meat Croquette;1 Smoked Fish Steak;2 Stir-Fried Vegetables;2 Beer
+Calpheon Meal;1600;Skilled 6;DMG Reduction 1 Max HP 100 HP Recovery 5;2 Soft Bread;1 Milk Tea;1 Fish Fillet Salad;1 Cheese Pie;1 Meat Pasta
+Serendia Meal;1600;Skilled 6;All Attack +5 Accuracy +10 Critical Hit Chance +1;1 Ham Sandwich;1 Meat Pie;1 Honeycomb Cookie;2 Boiled Bird Eggs;2 Fruit Wine
+Margoria Seafood Meal;2400;Artisan 1;Weight 50lt Move +2 Crit + 2 HP +100;1 Prawn Salad;1 Steamed Prawn;1 Pan-Fried Oyster;1 Butter-Roasted Lobster;2 Fruit Wine
+Special Arehaza Meal;2400;Artisan 1;Sun/heatstroke -5% fish time 5% Move Speed 2 Crit 1;2 Coconut Cocktail;1 Coconut Pasta;1 Coconut Fried Fish;1 Meat Stew;1 Steak
+Kamasylvia Meal;2400;Master 6;Max HP +150 Max Stam +200 | Back Attack DMG up;1 Rainbow Button Mushroom Sandwich;1 Coconut Pasta;1 Fig Pie;2 Fruit Wine;1 Rainbow Button Mushroom Cheese Melt
+Valencia Meal;2400;Professional 6;Res 4% debuff res 4% eva +6 DMG dec monster;1 Teff Sandwich;1 King of Jungle Hamburg;1 Couscous;2 Fig Pie;2 Date Palm Wine
+Knight Combat Rations;2400;Skilled 6;All Attack +5 DMG Against Humans +5 DMG Red +5;1 Dark Pudding;1 Ham Sandwich;1 Meat Croquette;1 Fruit Wine;
+Energizing Cron Meal;2400;Professional 1;Monster AP 13/AS 2/CS 2/Knowledge 5%/Higher Knowledge 2%/Lt 100/DA 5%;1 Special Drieghan Meal;3 Serendia Meal;3 Mediah Meal;1 Ancient Cron Spice;
+Ghormeh Sabzi;2400;Professional 1;Down Attack Damage 5%;5 Yak Meat;2 Starch;5 Garlic;2 Salt;1 Milk
+Roast Mamott;2400;Professional 1;Chance to Gain Higher Grade Knowledge +2%;5 Mamott Meat;3 Hot Pepper;2 Salt;1 Red Sauce;3 Cooking Wine
+Skewered Llama Cheese Melt;2400;Professional 1;Weight Limit +100LT;5 Llama Meat;4 Cheese;3 Hot Pepper;1 Pepper;1 White Sauce
+Special Drieghan Meal;2400;Professional 1;Knowledge Gain Chance +5%/Chance to Gain Higher Grade Knowledge +2%/Down Attack Damaged +5%/100LT;1 Skewered Llama Cheese Melt;1 Stir-Fried Bracken;1 Roast Mamott;1 Ghormeh Sabzi;2 Honey Wine
+Stir-Fried Bracken;2400;Professional 1;Knowledge Gain Chance +5%;8 Bracken;5 Garlic;2 Salt;5 Mineral Water;2 Olive Oil

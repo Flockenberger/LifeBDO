@@ -1,0 +1,77 @@
+Antidote Elixir;400;Beginner 1;Cures Poison;1 Pure Powder Reagent;1 Weeds;2 Blood 2;3 Olive Oil;
+Broken Alchemy Stone Shard;0;Skilled 1;None;10 Shining Powder;3 Sinner's Blood;5 Powder of Time;10 Pure Powder Reagent;10 Clear Liquid Reagent
+Clear Liquid Reagent;400;Beginner 1;None;1 Salt;1 Sunrise Herb;1 Weeds;1 Purified Water;
+Clown's Blood;800;Apprentice 1;None;1 Spirit's Leaf;1 Powder of Darkness;1 Clear Liquid Reagent;2 Blood 1;
+Defense Elixir;460;Apprentice 1;Damage Reduction +5/10;1 Clear Liquid Reagent;6 Ash Sap;5 Blood 2;3 Purified Water;
+Elixir of Amity;920;Apprentice 1;Amity Gain +20/30%;1 Legendary Beast's Blood;5 Fire Flake Flower;6 Ash Sap;3 Black Stone Powder;
+Elixir of Assassination;1610;Skilled 1;Base Attack Damage +50/100;1 Oil of Regeneration;5 Pure Powder Reagent;4 Amanita Mushroom;2 Red Tree Lump;2 Trace of Memory
+Elixir of Burn Removal;400;Beginner 1;Cures Burning;1 Clear Liquid Reagent;1 Purified Water;2 Fruit;2 Weeds;
+Elixir of Carnage;1610;Skilled 1;Down Attack Damage +30/50 on crit;1 Oil of Corruption;7 Pure Powder Reagent;6 Tiger Mushroom;3 Spirit's Leaf;3 Trace of the Earth
+Elixir of Concentration;460;Apprentice 1;Accuracy +8/12;1 Clear Liquid Reagent;3 Cloud Mushroom;2 Wild Grass;3 Blood 4;
+Elixir of Death;920;Skilled 1;Extra Damage +30/50 on crit;1 Oil of Tranquility;6 Clear Liquid Reagent;2 Ancient Mushroom;7 Ash Sap;2 Trace of Death
+Elixir of Deep Sea;2000;Skilled 1;All AP +10/MAX Stamina +100/MAX HP +100/Back Attack Damage +10%/Down Attack Damage +10%/Air Attack Damage +10%;1 Oil of the Abyss;2 Coral Crystal;5 Clear Liquid Reagent;5 Arrow Mushroom;6 White Cedar Sap
+Elixir of Demihuman Hunt;920;Apprentice 1;Damage against Demihumans +10/15;1 Sinner's Blood;4 Arrow Mushroom;4 Fir Sap;3 Black Stone Powder;
+Elixir of Detection;1610;Skilled 1;Critical Hit Damage +50/100%;1 Oil of Storms;6 Pure Powder Reagent;3 Truffle Mushroom;2 Old Tree Bark;3 Trace of Savagery
+Elixir of Draining;1610;Skilled 1;HP Steal 3/5 on Crit;1 Oil of Fortitude;4 Clear Liquid Reagent;3 Hump Mushroom;4 Birch Sap;2 Trace of Forest
+Elixir of Endurance;460;Apprentice 1;Stamina +100/150;1 Pure Powder Reagent;2 Dwarf Mushroom;5 Birch Sap;4 Blood 4;
+Elixir of Energy;460;Apprentice 1;MP Recovery 10/15;1 Pure Powder Reagent;4 Blood 3;3 Purified Water;2 MP Potion (Small);
+Elixir of Frenzy;1610;Skilled 1;All DP -10/15 All AP +20/25;1 Oil of Regeneration;5 Clear Liquid Reagent;5 Cedar Sap;3 Trace of Battle;2 Ghost Mushroom
+Elixir of Fury;460;Apprentice 1;All Attack +10/15;4 Dwarf Mushroom;1 Ash Sap;4 Blood 4;3 Purified Water;
+Elixir of Hemostasis;400;Beginner 1;Cures Bleeding;1 Pure Powder Reagent;1 Cloud Mushroom;1 Ash Sap;3 Purified Water;
+Elixir of Human Hunt;920;Apprentice 1;Damage Against Humans +6/11;1 Clown's Blood;5 Fortune Teller Mushroom;5 Maple Sap;3 Black Stone Powder;
+Elixir of Life;460;Apprentice 1;Max HP +100/150;1 Pure Powder Reagent;3 Silver Azalea;5 Blood 3;3 HP Potion (Small);
+Elixir of Mentality;460;Apprentice 1;Max MP +100/150;1 Clear Liquid Reagent;5 Ash Sap;3 Purified Water;2 MP Potion (Small);
+Elixir of Perforation;1610;Skilled 1;Defense Nullifying Damage +5 per Back Attack;1 Oil of Corruption;4 Clear Liquid Reagent;5 Bluffer Mushroom;5 Pine Sap;2 Trace of Violence
+Elixir of Resistance;460;Apprentice 1;Debuff Resisance monsters +10/15;3 Cloud Mushroom;1 Birch Sap;7 Blood 1;3 Purified Water;
+Elixir of Seal;460;Apprentice 1;Increase Breath Guage;3 Dwarf Mushroom;1 Birch Sap;4 Blood 1;5 Purified Water;
+Elixir of Shock;920;Skilled 1;Critical Hit Chance +2;1 Clown's Blood;5 Tiger Mushroom;7 Cedar Sap;3 Powder of Time;
+Elixir of Sky;1610;Skilled 1;Air Attack Damage +50/100;1 Oil of Tranquility;6 Pure Powder Reagent;5 Emperor Mushroom;2 Bloody Tree Knot;4 Trace of Ascension
+Elixir of Spells;920;Apprentice 1;Casting Speed +2/3;1 Tyrant's Blood;5 Fire Flake Flower;3 Maple Sap;2 Powder of Darkness;
+Elixir of Swiftness;920;Apprentice 1;Movement Speed +2/3;1 Legendary Beast's Blood;5 Arrow Mushroom;5 Birch Sap;2 Powder of Darkness;
+Elixir of Time;920;Apprentice 1;Life Skill EXP +10/15%;1 Wise Man's Blood;6 Fire Flake Flower;5 Maple Sap;2 Powder of Time;
+Elixir of Training;920;Apprentice 1;Mount EXP +8/10%;1 Legendary Beast's Blood;7 Silver Azalea;4 Pine Sap;2 Powder of Crevice;
+Elixir of Will;460;Apprentice 1;Damage From Monsters -15/20%;1 Pure Powder Reagent;4 Sunrise Herb;6 Blood 1;3 Purified Water;
+Elixir of Wind;920;Apprentice 1;Attack Speed +2/3;1 Wise Man's Blood;5 Fortune Teller Mushroom;5 Pine Sap;2 Powder of Darkness;
+Elixir of Wings;460;Apprentice 1;Increased Jump Height;2 Silver Azalea;1 Ash Sap;4 Blood 4;5 Purified Water;
+Essence of Abundance;900;Apprentice 1;None;2 Fruit of Abundance;6 Cloud Mushroom;6 Birch Sap;2 Trace of Ascension;
+Essence of Crimson Flame;900;Apprentice 1;None;2 Fruit of Crimson Flame;6 Dwarf Mushroom;6 Ash Sap;2 Trace of Ascension;
+Essence of Destruction;900;Apprentice 1;None;2 Fruit of Destruction;6 Silver Azalea;6 Pine Sap;2 Powder of Flame;
+Essence of Enchantment;900;Apprentice 1;None;2 Fruit of Enchantment;3 Fire Flake Flower;4 Ash Sap;2 Powder of Darkness;
+Essence of Magic Power;900;Apprentice 1;None;2 Fruit of Magic Power;6 Dry Mane Grass;6 Birch Sap;2 Powder of Darkness;
+Essence of Nature;900;Apprentice 1;None;2 Fruit of Nature;6 Fortune Teller Mushroom;6 Maple Sap;2 Trace of the Earth;
+Essence of Perfection;900;Apprentice 1;None;2 Fruit of Perfection;6 Sunrise Herb;6 Maple Sap;2 Powder of Flame;
+Essence of the Sun;900;Apprentice 1;None;2 Fruit of the Sun;6 Arrow Mushroom;6 Pine Sap;2 Trace of the Earth;
+EXP Elixir;920;Apprentice 1;EXP +15%;1 Clown's Blood;7 Dry Mane Grass;5 Pine Sap;2 Powder of Flame;
+Fisher's Elixir;920;Apprentice 1;Fish Speed +2;1 Wise Man's Blood;6 Sunrise Herb;3 Fir Sap;2 Powder of Flame;
+Gem Polisher;800;Apprentice 1;None;2 Trace of Origin;1 Pure Powder Reagent;4 Processed Coal;6 Purified Water;
+Golden Hand Elixir;1610;Skilled 1;Luck +2/3;1 Oil of Storms;4 Clear Liquid Reagent;4 Fog Mushroom;3 Trace of Hunting;6 Fir Sap
+Griffon's Elixir;920;Artisan 1;Additional Damage against Kamasylvian Monsters +12;1 Griffon Claw;6 Cedar Sap;3 Trace of Battle;3 Purified Water;2 Sinner's Blood
+Grim Reaper's Elixir;1610;Skilled 1;HP Steal +1/3;1 Oil of Fortitude;4 Pure Powder Reagent;2 Sky Mushroom;2 Monk's Branch;4 Trace of Origin
+Helix Elixir;200;Apprentice 1;All Evasion +8;6 Thuja Sap;3 Monk's Branch;2 Clown's Blood;2 Powder of Flame;3 Purified Water
+Herbal Gunpowder;700;Professionl 10;None;1 Insectivore Plant Powder;1 Powder of Darkness;;;
+Herbal Poison;700;Professionl 10;None;1 Insectivore Plant Sap;5 Amanita Mushroom;;;
+Khalk's Elixir;2000;Skilled 1;All Debuff Resistance +10%/Damage Reduction +15/MAX HP +100/Movement Speed +5%;1 Fugitive Khalk's Skin;10 White Cedar Sap;5 Trace of Chaos;4 Purified Water;2 Oil of Corruption
+Leather Glaze;800;Apprentice 1;None;3 Maple Sap;2 Powder of Darkness;3 Trace of Ascension;1 Clear Liquid Reagent;
+Legendary Beast's Blood;800;Apprentice 1;None;1 Spirit's Leaf;1 Trace of the Earth;1 Pure Powder Reagent;2 Blood 5;
+Looney Elixir;920;Professionl 1;Chance to Gain Higher-Grade Knowledge +3%;4 Moss Tree Sap;2 Volcanic Umbrella Mushroom;3 Powder of Flame;5 Red Tree Lump;1 Violet Flower
+Metal Solvent;0;Apprentice 1;None;3 Melted Iron Shard;2 Trace Of Savagery;1 Clear Liquid Reagent;4 Rough Stone;
+Oil of Corruption;1400;Skilled 1;None;1 Sinner's Blood;1 Spirit's Leaf;1 Fruit of the Sun;1 Powder of Darkness;
+Oil of Fortitude;1400;Skilled 1;None;1 Clown's Blood;1 Monk's Branch;1 Fruit of Nature;1 Powder of Flame;
+Oil of Regeneration;1400;Skilled 1;None;1 Legendary Beast's Blood;1 Red Tree Lump;1 Fruit of Crimson Flame;1 Powder of Crevice;
+Oil of Storms;1400;Skilled 1;None;1 Tyrant's Blood;1 Old Tree Bark;1 Fruit of Abundance;1 Powder of Time;
+Oil of the Abyss;1400;Artisan 1;None;1 Tyrant's Blood;1 Deep Sea Fruit;2 Powder of Time;2 Bloody Tree Knot;
+Oil of Tranquility;1400;Skilled 1;None;1 Wise Man's Blood;1 Bloody Tree Knot;1 Fruit of Magic Power;1 Powder of Earth;
+Perfume of Courage;2000;Skilled 1;All attack +25 Max HP +200 Attack/Cast +;1 Blue Whale Oil;3 Trace of Violence;6 Bloody Tree Knot;4 Purified Water;2 Clear Liquid Reagent
+Perfume of Swiftness;2000;Skilled 1;Weight Limit +200LT/Life EXP +20%/Movement Speed +5/Gathering Speed +5/Fishing Speed +5;1 Blue Whale Oil;4 Powder of Time;6 Everlasting Herb;4 Purified Water;2 Clear Liquid Reagent
+Plywood Hardener;800;Apprentice 1;None;4 Fir Sap;1 Pure Powder Reagent;3 Bloody Tree Knot;3 Trace of the Earth;
+Pure Powder Reagent;400;Beginner 1;None;1 Sugar;1 Silver Azalea;1 Weeds;1 Purified Water;
+Resurrection Elixir;460;Apprentice 1;HP Recovery +10/15;1 Clear Liquid Reagent;3 Sunrise Herb;3 Purified Water;2 HP Potion (Small);
+Sinner's Blood;800;Apprentice 1;None;1 Bloody Tree Knot;1 Powder of Flame;1 Clear Liquid Reagent;2 Blood 2;
+Special Honey Jar;0;Beginner 1;None;2 Top-Quality Cooking Honey;5 Fruit of Abundance;1 Essence of Liquor;2 Purified Water;
+Spirit Perfume Elixir;2000;Guru 1;MAX HP +300/Critical Hit Rate +5;1 Dead Tree Essence;1 Fruit of Nature;10 Loopy Tree Sap;10 Powder of Darkness;2 Violet Flower
+Tyrant's Blood;800;Apprentice 1;None;1 Monk's Branch;1 Trace Of Savagery;1 Pure Powder Reagent;2 Blood 4;
+Weenie Elixir;920;Professional 1;None;4 Moss Tree Sap;2 Blue Umbrella Mushroom;3 Powder of Time;5 Monk's Branch;1 Sky Blue Flower
+Whale Tendon Elixir;1400;Skilled 1;damage reduction +100/125;1 Blue Whale Tendon;1 Clown's Blood;12 Ash Sap;5 Purified Water;2 Clear Liquid Reagent
+Whale Tendon Potion;800;Apprentice 1;HP Recovery 500/750 MP/WP/SP 300/500;1 Blue Whale Tendon;3 HP Potion (Medium);3 MP Potion (Medium);8 Purified Water;
+Wise Man's Blood;800;Apprentice 1;None;1 Monk's Branch;1 Trace Of Ascension;1 Clear Liquid Reagent;2 Blood 3;
+Worker's Elixir;920;Apprentice 1;Gather Speed +2;1 Sinner's Blood;6 Silver Azalea;4 Ash Sap;2 Powder of Flame;

@@ -1,0 +1,5413 @@
+{
+  "recipes": [
+    {
+      "product": {
+        "id": 729,
+        "name": "Antidote Elixir",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000729"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "BEGINNER",
+      "xp": 400,
+      "effects": [
+        {
+          "effect": "Cures Poison",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5302,
+              "name": "Pure Powder Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005302"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5600,
+              "name": "Weeds",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005600"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6201,
+              "name": "Deer Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006201"
+            },
+            {
+              "id": 6202,
+              "name": "Sheep Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006202"
+            },
+            {
+              "id": 6205,
+              "name": "Pig Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006205"
+            },
+            {
+              "id": 6206,
+              "name": "Ox Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006206"
+            },
+            {
+              "id": 6215,
+              "name": "Waragon Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006215"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 9015,
+              "name": "Olive Oil",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00009015"
+            }
+          ],
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 9734,
+        "name": "Broken Alchemy Stone Shard",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00009734"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 0,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 9733,
+              "name": "Shining Powder",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00009733"
+            }
+          ],
+          "amount": 10
+        },
+        {
+          "item": [
+            {
+              "id": 6354,
+              "name": "Sinner\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006354"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 4805,
+              "name": "Powder of Time",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004805"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5302,
+              "name": "Pure Powder Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005302"
+            }
+          ],
+          "amount": 10
+        },
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 5301,
+        "name": "Clear Liquid Reagent",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00005301"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "BEGINNER",
+      "xp": 400,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 9001,
+              "name": "Salt",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00009001"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5401,
+              "name": "Sunrise Herb",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005401"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5600,
+              "name": "Weeds",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005600"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 6353,
+        "name": "Clown\u0027s Blood",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00006353"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 800,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5006,
+              "name": "Spirit\u0027s Leaf",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005006"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6214,
+              "name": "Wolf Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006214"
+            },
+            {
+              "id": 6218,
+              "name": "Flamingo Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006218"
+            },
+            {
+              "id": 6204,
+              "name": "Rhino Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006204"
+            },
+            {
+              "id": 6216,
+              "name": "Cheetah Dragon Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006216"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 716,
+        "name": "Defense Elixir",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000716"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 460,
+      "effects": [
+        {
+          "effect": "Damage Reduction +5/10",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5001,
+              "name": "Ash Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005001"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 6201,
+              "name": "Deer Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006201"
+            },
+            {
+              "id": 6202,
+              "name": "Sheep Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006202"
+            },
+            {
+              "id": 6205,
+              "name": "Pig Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006205"
+            },
+            {
+              "id": 6206,
+              "name": "Ox Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006206"
+            },
+            {
+              "id": 6215,
+              "name": "Waragon Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006215"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 664,
+        "name": "Elixir of Amity",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000664"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 920,
+      "effects": [
+        {
+          "effect": "Amity Gain +20/30%",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6351,
+              "name": "Legendary Beast\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006351"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5403,
+              "name": "Fire Flake Flower",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005403"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5001,
+              "name": "Ash Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005001"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 4901,
+              "name": "Black Stone Powder",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004901"
+            }
+          ],
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 696,
+        "name": "Elixir of Assassination",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000696"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 1610,
+      "effects": [
+        {
+          "effect": "Base Attack Damage +50/100",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6601,
+              "name": "Oil of Regeneration",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006601"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5302,
+              "name": "Pure Powder Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005302"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5419,
+              "name": "Amanita Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005419"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 5011,
+              "name": "Red Tree Lump",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005011"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5963,
+              "name": "Trace of Memory",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005963"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 728,
+        "name": "Elixir of Burn Removal",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000728"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "BEGINNER",
+      "xp": 400,
+      "effects": [
+        {
+          "effect": "Cures Burning",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 7304,
+              "name": "Strawberry",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007304"
+            },
+            {
+              "id": 7307,
+              "name": "Grape",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007307"
+            },
+            {
+              "id": 7313,
+              "name": "Apple",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007313"
+            },
+            {
+              "id": 7314,
+              "name": "Cherry",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007314"
+            },
+            {
+              "id": 7315,
+              "name": "Pear",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007315"
+            },
+            {
+              "id": 7316,
+              "name": "Banana",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007316"
+            },
+            {
+              "id": 7317,
+              "name": "Pineapple",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007317"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5600,
+              "name": "Weeds",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005600"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 718,
+        "name": "Elixir of Carnage",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000718"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 1610,
+      "effects": [
+        {
+          "effect": "Down Attack Damage +30/50 on crit",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6604,
+              "name": "Oil of Corruption",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006604"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5302,
+              "name": "Pure Powder Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005302"
+            }
+          ],
+          "amount": 7
+        },
+        {
+          "item": [
+            {
+              "id": 5412,
+              "name": "Tiger Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005412"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5006,
+              "name": "Spirit\u0027s Leaf",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005006"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 5954,
+              "name": "Trace of the Earth",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005954"
+            }
+          ],
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 700,
+        "name": "Elixir of Concentration",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000700"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 460,
+      "effects": [
+        {
+          "effect": "Accuracy +8/12",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5410,
+              "name": "Cloud Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005410"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 5439,
+              "name": "Wild Grass",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005439"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 6213,
+              "name": "Bear Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006213"
+            },
+            {
+              "id": 6220,
+              "name": "Troll Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006220"
+            },
+            {
+              "id": 6221,
+              "name": "Ogre Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006221"
+            }
+          ],
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 686,
+        "name": "Elixir of Death",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000686"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 920,
+      "effects": [
+        {
+          "effect": "Extra Damage +30/50 on crit",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6605,
+              "name": "Oil of Tranquility",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006605"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5418,
+              "name": "Ancient Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005418"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5001,
+              "name": "Ash Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005001"
+            }
+          ],
+          "amount": 7
+        },
+        {
+          "item": [
+            {
+              "id": 5962,
+              "name": "Trace of Death",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005962"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 771,
+        "name": "Elixir of Deep Sea",
+        "grade": 3,
+        "icon": "new_icon/03_etc/08_potion/00000771"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 2000,
+      "effects": [
+        {
+          "effect": "All AP +10/MAX Stamina +100/MAX HP +100/Back Attack Damage +10%/Down Attack Damage +10%/Air Attack Damage +10%",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6606,
+              "name": "Oil of the Abyss",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006606"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6533,
+              "name": "Coral Crystal",
+              "grade": 2,
+              "icon": "new_icon/03_etc/07_productmaterial/00006533"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5408,
+              "name": "Arrow Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005408"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5012,
+              "name": "White Cedar Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005012"
+            }
+          ],
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 678,
+        "name": "Elixir of Demihuman Hunt",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000678"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 920,
+      "effects": [
+        {
+          "effect": "Damage against Demihumans +10/15",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6354,
+              "name": "Sinner\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006354"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5408,
+              "name": "Arrow Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005408"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 5009,
+              "name": "Fir Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005009"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 4901,
+              "name": "Black Stone Powder",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004901"
+            }
+          ],
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 698,
+        "name": "Elixir of Detection",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000698"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 1610,
+      "effects": [
+        {
+          "effect": "Critical Hit Damage +50/100%",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6602,
+              "name": "Oil of Storms",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006602"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5302,
+              "name": "Pure Powder Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005302"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5420,
+              "name": "Truffle Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005420"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 5008,
+              "name": "Old Tree Bark",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005008"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5956,
+              "name": "Trace of Savagery",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005956"
+            }
+          ],
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 676,
+        "name": "Elixir of Draining",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000676"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 1610,
+      "effects": [
+        {
+          "effect": "HP Steal 3/5 on Crit",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6603,
+              "name": "Oil of Fortitude",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006603"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 5416,
+              "name": "Hump Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005416"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 5004,
+              "name": "Birch Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005004"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 5960,
+              "name": "Trace of Forest",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005960"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 722,
+        "name": "Elixir of Endurance",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000722"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 460,
+      "effects": [
+        {
+          "effect": "Stamina +100/150",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5302,
+              "name": "Pure Powder Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005302"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5409,
+              "name": "Dwarf Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005409"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5004,
+              "name": "Birch Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005004"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 6213,
+              "name": "Bear Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006213"
+            },
+            {
+              "id": 6220,
+              "name": "Troll Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006220"
+            },
+            {
+              "id": 6221,
+              "name": "Ogre Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006221"
+            }
+          ],
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 682,
+        "name": "Elixir of Energy",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000682"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 460,
+      "effects": [
+        {
+          "effect": "MP Recovery 10/15",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5302,
+              "name": "Pure Powder Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005302"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6212,
+              "name": "Weasel Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006212"
+            },
+            {
+              "id": 6203,
+              "name": "Fox Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006203"
+            },
+            {
+              "id": 6210,
+              "name": "Raccoon Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006210"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 520,
+              "name": "MP Potion (Small)",
+              "grade": 0,
+              "icon": "new_icon/03_etc/08_potion/00000520"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 672,
+        "name": "Elixir of Frenzy",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000672"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 1610,
+      "effects": [
+        {
+          "effect": "All DP -10/15 All AP +20/25",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6601,
+              "name": "Oil of Regeneration",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006601"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5010,
+              "name": "Cedar Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005010"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5958,
+              "name": "Trace of Battle",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005958"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 5414,
+              "name": "Ghost Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005414"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 704,
+        "name": "Elixir of Fury",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000704"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 460,
+      "effects": [
+        {
+          "effect": "All Attack +10/15",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5409,
+              "name": "Dwarf Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005409"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 5001,
+              "name": "Ash Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005001"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6213,
+              "name": "Bear Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006213"
+            },
+            {
+              "id": 6220,
+              "name": "Troll Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006220"
+            },
+            {
+              "id": 6221,
+              "name": "Ogre Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006221"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 730,
+        "name": "Elixir of Hemostasis",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000730"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "BEGINNER",
+      "xp": 400,
+      "effects": [
+        {
+          "effect": "Cures Bleeding",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5302,
+              "name": "Pure Powder Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005302"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5410,
+              "name": "Cloud Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005410"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5001,
+              "name": "Ash Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005001"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 670,
+        "name": "Elixir of Human Hunt",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000670"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 920,
+      "effects": [
+        {
+          "effect": "Damage Against Humans +6/11",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6353,
+              "name": "Clown\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006353"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5407,
+              "name": "Fortune Teller Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005407"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5002,
+              "name": "Maple Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005002"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 4901,
+              "name": "Black Stone Powder",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004901"
+            }
+          ],
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 708,
+        "name": "Elixir of Life",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000708"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 460,
+      "effects": [
+        {
+          "effect": "Max HP +100/150",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5302,
+              "name": "Pure Powder Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005302"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5402,
+              "name": "Silver Azalea",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005402"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 6212,
+              "name": "Weasel Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006212"
+            },
+            {
+              "id": 6203,
+              "name": "Fox Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006203"
+            },
+            {
+              "id": 6210,
+              "name": "Raccoon Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006210"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 517,
+              "name": "HP Potion (Small)",
+              "grade": 0,
+              "icon": "new_icon/03_etc/08_potion/00000517"
+            }
+          ],
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 710,
+        "name": "Elixir of Mentality",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000710"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 460,
+      "effects": [
+        {
+          "effect": "Max MP +100/150",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5001,
+              "name": "Ash Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005001"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 520,
+              "name": "MP Potion (Small)",
+              "grade": 0,
+              "icon": "new_icon/03_etc/08_potion/00000520"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 680,
+        "name": "Elixir of Perforation",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000680"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 1610,
+      "effects": [
+        {
+          "effect": "Defense Nullifying Damage +5 per Back Attack",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6604,
+              "name": "Oil of Corruption",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006604"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 5417,
+              "name": "Bluffer Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005417"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5003,
+              "name": "Pine Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005003"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5961,
+              "name": "Trace of Violence",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005961"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 706,
+        "name": "Elixir of Resistance",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000706"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 460,
+      "effects": [
+        {
+          "effect": "Debuff Resisance monsters +10/15",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5410,
+              "name": "Cloud Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005410"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 5004,
+              "name": "Birch Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005004"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6214,
+              "name": "Wolf Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006214"
+            },
+            {
+              "id": 6218,
+              "name": "Flamingo Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006218"
+            },
+            {
+              "id": 6204,
+              "name": "Rhino Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006204"
+            },
+            {
+              "id": 6216,
+              "name": "Cheetah Dragon Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006216"
+            }
+          ],
+          "amount": 7
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 694,
+        "name": "Elixir of Seal",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000694"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 460,
+      "effects": [
+        {
+          "effect": "Increase Breath Guage",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5409,
+              "name": "Dwarf Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005409"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 5004,
+              "name": "Birch Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005004"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6214,
+              "name": "Wolf Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006214"
+            },
+            {
+              "id": 6218,
+              "name": "Flamingo Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006218"
+            },
+            {
+              "id": 6204,
+              "name": "Rhino Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006204"
+            },
+            {
+              "id": 6216,
+              "name": "Cheetah Dragon Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006216"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 762,
+        "name": "Elixir of Shock",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000762"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 920,
+      "effects": [
+        {
+          "effect": "Critical Hit Chance +2",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6353,
+              "name": "Clown\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006353"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5412,
+              "name": "Tiger Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005412"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5010,
+              "name": "Cedar Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005010"
+            }
+          ],
+          "amount": 7
+        },
+        {
+          "item": [
+            {
+              "id": 4805,
+              "name": "Powder of Time",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004805"
+            }
+          ],
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 720,
+        "name": "Elixir of Sky",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000720"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 1610,
+      "effects": [
+        {
+          "effect": "Air Attack Damage +50/100",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6605,
+              "name": "Oil of Tranquility",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006605"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5302,
+              "name": "Pure Powder Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005302"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5413,
+              "name": "Emperor Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005413"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5005,
+              "name": "Bloody Tree Knot",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005005"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5955,
+              "name": "Trace of Ascension",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005955"
+            }
+          ],
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 692,
+        "name": "Elixir of Spells",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000692"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 920,
+      "effects": [
+        {
+          "effect": "Casting Speed +2/3",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6352,
+              "name": "Tyrant\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006352"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5403,
+              "name": "Fire Flake Flower",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005403"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5002,
+              "name": "Maple Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005002"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 690,
+        "name": "Elixir of Swiftness",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000690"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 920,
+      "effects": [
+        {
+          "effect": "Movement Speed +2/3",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6351,
+              "name": "Legendary Beast\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006351"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5408,
+              "name": "Arrow Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005408"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5004,
+              "name": "Birch Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005004"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 749,
+        "name": "Elixir of Time",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000749"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 920,
+      "effects": [
+        {
+          "effect": "Life Skill EXP +10/15%",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6355,
+              "name": "Wise Man\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006355"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5403,
+              "name": "Fire Flake Flower",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005403"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5002,
+              "name": "Maple Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005002"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 4805,
+              "name": "Powder of Time",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004805"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 753,
+        "name": "Elixir of Training",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000753"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 920,
+      "effects": [
+        {
+          "effect": "Mount EXP +8/10%",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6351,
+              "name": "Legendary Beast\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006351"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5402,
+              "name": "Silver Azalea",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005402"
+            }
+          ],
+          "amount": 7
+        },
+        {
+          "item": [
+            {
+              "id": 5003,
+              "name": "Pine Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005003"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 4803,
+              "name": "Powder of Crevice",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004803"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 702,
+        "name": "Elixir of Will",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000702"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 460,
+      "effects": [
+        {
+          "effect": "Damage From Monsters -15/20%",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5302,
+              "name": "Pure Powder Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005302"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5401,
+              "name": "Sunrise Herb",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005401"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 6214,
+              "name": "Wolf Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006214"
+            },
+            {
+              "id": 6218,
+              "name": "Flamingo Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006218"
+            },
+            {
+              "id": 6204,
+              "name": "Rhino Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006204"
+            },
+            {
+              "id": 6216,
+              "name": "Cheetah Dragon Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006216"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 688,
+        "name": "Elixir of Wind",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000688"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 920,
+      "effects": [
+        {
+          "effect": "Attack Speed +2/3",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6355,
+              "name": "Wise Man\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006355"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5407,
+              "name": "Fortune Teller Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005407"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5003,
+              "name": "Pine Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005003"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 684,
+        "name": "Elixir of Wings",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000684"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 460,
+      "effects": [
+        {
+          "effect": "Increased Jump Height",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5402,
+              "name": "Silver Azalea",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005402"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5001,
+              "name": "Ash Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005001"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6213,
+              "name": "Bear Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006213"
+            },
+            {
+              "id": 6220,
+              "name": "Troll Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006220"
+            },
+            {
+              "id": 6221,
+              "name": "Ogre Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006221"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 5204,
+        "name": "Essence of Abundance",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00005204"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 900,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5203,
+              "name": "Fruit of Abundance",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005203"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5410,
+              "name": "Cloud Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005410"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5004,
+              "name": "Birch Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005004"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5955,
+              "name": "Trace of Ascension",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005955"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 5202,
+        "name": "Essence of Crimson Flame",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00005202"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 900,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5201,
+              "name": "Fruit of Crimson Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005201"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5409,
+              "name": "Dwarf Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005409"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5001,
+              "name": "Ash Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005001"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5955,
+              "name": "Trace of Ascension",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005955"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 5216,
+        "name": "Essence of Destruction",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00005216"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 900,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5215,
+              "name": "Fruit of Destruction",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005215"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5402,
+              "name": "Silver Azalea",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005402"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5003,
+              "name": "Pine Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005003"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 5210,
+        "name": "Essence of Enchantment",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00005210"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 900,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5209,
+              "name": "Fruit of Enchantment",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005209"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5403,
+              "name": "Fire Flake Flower",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005403"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 5001,
+              "name": "Ash Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005001"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 5212,
+        "name": "Essence of Magic Power",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00005212"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 900,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5211,
+              "name": "Fruit of Magic Power",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005211"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5404,
+              "name": "Dry Mane Grass",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005404"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5004,
+              "name": "Birch Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005004"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 5206,
+        "name": "Essence of Nature",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00005206"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 900,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5205,
+              "name": "Fruit of Nature",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005205"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5407,
+              "name": "Fortune Teller Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005407"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5002,
+              "name": "Maple Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005002"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5954,
+              "name": "Trace of the Earth",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005954"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 5214,
+        "name": "Essence of Perfection",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00005214"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 900,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5213,
+              "name": "Fruit of Perfection",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005213"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5401,
+              "name": "Sunrise Herb",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005401"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5002,
+              "name": "Maple Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005002"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 5208,
+        "name": "Essence of the Sun",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00005208"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 900,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5207,
+              "name": "Fruit of the Sun",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005207"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5408,
+              "name": "Arrow Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005408"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5003,
+              "name": "Pine Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005003"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5954,
+              "name": "Trace of the Earth",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005954"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 714,
+        "name": "EXP Elixir",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000714"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 920,
+      "effects": [
+        {
+          "effect": "EXP +15%",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6353,
+              "name": "Clown\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006353"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5404,
+              "name": "Dry Mane Grass",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005404"
+            }
+          ],
+          "amount": 7
+        },
+        {
+          "item": [
+            {
+              "id": 5003,
+              "name": "Pine Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005003"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 726,
+        "name": "Fisher\u0027s Elixir",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000726"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 920,
+      "effects": [
+        {
+          "effect": "Fish Speed +2",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6355,
+              "name": "Wise Man\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006355"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5401,
+              "name": "Sunrise Herb",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005401"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5009,
+              "name": "Fir Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005009"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 4481,
+        "name": "Gem Polisher",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00004481"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 800,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5957,
+              "name": "Trace of Origin",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005957"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5302,
+              "name": "Pure Powder Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005302"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 4070,
+              "name": "Processed Coal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004070"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 674,
+        "name": "Golden Hand Elixir",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000674"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 1610,
+      "effects": [
+        {
+          "effect": "Luck +2/3",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6602,
+              "name": "Oil of Storms",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006602"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 5415,
+              "name": "Fog Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005415"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 5959,
+              "name": "Trace of Hunting",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005959"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 5009,
+              "name": "Fir Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005009"
+            }
+          ],
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 740,
+        "name": "Griffon\u0027s Elixir",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000740"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "ARTISAN",
+      "xp": 920,
+      "effects": [
+        {
+          "effect": "Additional Damage against Kamasylvian Monsters +12",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 9741,
+              "name": "Griffon Claw",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00009741"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5010,
+              "name": "Cedar Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005010"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5958,
+              "name": "Trace of Battle",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005958"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 6354,
+              "name": "Sinner\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006354"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 712,
+        "name": "Grim Reaper\u0027s Elixir",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000712"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 1610,
+      "effects": [
+        {
+          "effect": "HP Steal +1/3",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6603,
+              "name": "Oil of Fortitude",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006603"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5302,
+              "name": "Pure Powder Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005302"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 5411,
+              "name": "Sky Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005411"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5007,
+              "name": "Monk\u0027s Branch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005007"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5957,
+              "name": "Trace of Origin",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005957"
+            }
+          ],
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 782,
+        "name": "Helix Elixir",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000782"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 200,
+      "effects": [
+        {
+          "effect": "All Evasion +8",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5020,
+              "name": "Thuja Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005020"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5007,
+              "name": "Monk\u0027s Branch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005007"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 6353,
+              "name": "Clown\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006353"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 5604,
+        "name": "Herbal Gunpowder",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00005604"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "GURU",
+      "xp": 700,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5601,
+              "name": "Insectivore Plant Powder",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005601"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            }
+          ],
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 5603,
+        "name": "Herbal Poison",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00005603"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "GURU",
+      "xp": 700,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5602,
+              "name": "Insectivore Plant Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005602"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5419,
+              "name": "Amanita Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005419"
+            }
+          ],
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 748,
+        "name": "Khalk\u0027s Elixir",
+        "grade": 3,
+        "icon": "new_icon/03_etc/08_potion/00000748"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 2000,
+      "effects": [
+        {
+          "effect": "All Debuff Resistance +10%/Damage Reduction +15/MAX HP +100/Movement Speed +5%",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 9736,
+              "name": "Fugitive Khalk\u0027s Skin",
+              "grade": 2,
+              "icon": "new_icon/03_etc/07_productmaterial/00009736"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5012,
+              "name": "White Cedar Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005012"
+            }
+          ],
+          "amount": 10
+        },
+        {
+          "item": [
+            {
+              "id": 5951,
+              "name": "Trace of Chaos",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005951"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 6604,
+              "name": "Oil of Corruption",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006604"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 6183,
+        "name": "Leather Glaze",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00006183"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 800,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5002,
+              "name": "Maple Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005002"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5955,
+              "name": "Trace of Ascension",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005955"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 6351,
+        "name": "Legendary Beast\u0027s Blood",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00006351"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 800,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5006,
+              "name": "Spirit\u0027s Leaf",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005006"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5954,
+              "name": "Trace of the Earth",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005954"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5302,
+              "name": "Pure Powder Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005302"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6209,
+              "name": "Worm Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006209"
+            },
+            {
+              "id": 6208,
+              "name": "Lizard Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006208"
+            },
+            {
+              "id": 6219,
+              "name": "Bat Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006219"
+            },
+            {
+              "id": 6217,
+              "name": "Kuku Bird Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006217"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 777,
+        "name": "Looney Elixir",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000777"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "GURU",
+      "xp": 920,
+      "effects": [
+        {
+          "effect": "Chance to Gain Higher-Grade Knowledge +3%",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5017,
+              "name": "Moss Tree Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005017"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 5517,
+              "name": "Volcanic Umbrella Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005517"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 5011,
+              "name": "Red Tree Lump",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005011"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5526,
+              "name": "Violet Flower",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005526"
+            }
+          ],
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 4076,
+        "name": "Metal Solvent",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00004076"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 0,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 4051,
+              "name": "Melted Iron Shard",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004051"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 5956,
+              "name": "Trace of Savagery",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005956"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 4006,
+              "name": "Rough Stone",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004006"
+            }
+          ],
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 6604,
+        "name": "Oil of Corruption",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00006604"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 1400,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6354,
+              "name": "Sinner\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006354"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5006,
+              "name": "Spirit\u0027s Leaf",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005006"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5207,
+              "name": "Fruit of the Sun",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005207"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            }
+          ],
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 6603,
+        "name": "Oil of Fortitude",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00006603"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 1400,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6353,
+              "name": "Clown\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006353"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5007,
+              "name": "Monk\u0027s Branch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005007"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5205,
+              "name": "Fruit of Nature",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005205"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ],
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 6601,
+        "name": "Oil of Regeneration",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00006601"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 1400,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6351,
+              "name": "Legendary Beast\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006351"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5011,
+              "name": "Red Tree Lump",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005011"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5201,
+              "name": "Fruit of Crimson Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005201"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 4803,
+              "name": "Powder of Crevice",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004803"
+            }
+          ],
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 6602,
+        "name": "Oil of Storms",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00006602"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 1400,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6352,
+              "name": "Tyrant\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006352"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5008,
+              "name": "Old Tree Bark",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005008"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5203,
+              "name": "Fruit of Abundance",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005203"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 4805,
+              "name": "Powder of Time",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004805"
+            }
+          ],
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 6606,
+        "name": "Oil of the Abyss",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00006606"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "ARTISAN",
+      "xp": 1400,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6352,
+              "name": "Tyrant\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006352"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5217,
+              "name": "Deep Sea Fruit",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005217"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 4805,
+              "name": "Powder of Time",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004805"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5005,
+              "name": "Bloody Tree Knot",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005005"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 6605,
+        "name": "Oil of Tranquility",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00006605"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 1400,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6355,
+              "name": "Wise Man\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006355"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5005,
+              "name": "Bloody Tree Knot",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005005"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5211,
+              "name": "Fruit of Magic Power",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005211"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 4804,
+              "name": "Powder of Earth",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004804"
+            }
+          ],
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 734,
+        "name": "Perfume of Courage",
+        "grade": 3,
+        "icon": "new_icon/03_etc/07_productmaterial/00000734"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 2000,
+      "effects": [
+        {
+          "effect": "All attack +25 Max HP +200 Attack/Cast +",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 9727,
+              "name": "Blue Whale Oil",
+              "grade": 2,
+              "icon": "new_icon/03_etc/07_productmaterial/00009727"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5961,
+              "name": "Trace of Violence",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005961"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 5005,
+              "name": "Bloody Tree Knot",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005005"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 735,
+        "name": "Perfume of Swiftness",
+        "grade": 3,
+        "icon": "new_icon/03_etc/07_productmaterial/00000735"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 2000,
+      "effects": [
+        {
+          "effect": "Weight Limit +200LT/Life EXP +20%/Movement Speed +5/Gathering Speed +5/Fishing Speed +5",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 9727,
+              "name": "Blue Whale Oil",
+              "grade": 2,
+              "icon": "new_icon/03_etc/07_productmaterial/00009727"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 4805,
+              "name": "Powder of Time",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004805"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 5406,
+              "name": "Everlasting Herb",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005406"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 4684,
+        "name": "Plywood Hardener",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00004684"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 800,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5009,
+              "name": "Fir Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005009"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 5302,
+              "name": "Pure Powder Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005302"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5005,
+              "name": "Bloody Tree Knot",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005005"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 5954,
+              "name": "Trace of the Earth",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005954"
+            }
+          ],
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 5302,
+        "name": "Pure Powder Reagent",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00005302"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "BEGINNER",
+      "xp": 400,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 9002,
+              "name": "Sugar",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00009002"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5402,
+              "name": "Silver Azalea",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005402"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5600,
+              "name": "Weeds",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005600"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 668,
+        "name": "Resurrection Elixir",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000668"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 460,
+      "effects": [
+        {
+          "effect": "HP Recovery +10/15",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5401,
+              "name": "Sunrise Herb",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005401"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 517,
+              "name": "HP Potion (Small)",
+              "grade": 0,
+              "icon": "new_icon/03_etc/08_potion/00000517"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 6354,
+        "name": "Sinner\u0027s Blood",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00006354"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 800,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5005,
+              "name": "Bloody Tree Knot",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005005"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6201,
+              "name": "Deer Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006201"
+            },
+            {
+              "id": 6202,
+              "name": "Sheep Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006202"
+            },
+            {
+              "id": 6205,
+              "name": "Pig Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006205"
+            },
+            {
+              "id": 6206,
+              "name": "Ox Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006206"
+            },
+            {
+              "id": 6215,
+              "name": "Waragon Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006215"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 39240,
+        "name": "Special Honey Jar",
+        "grade": 4,
+        "icon": "new_icon/03_etc/12_doapplydirectlyitem/00000000_know_icon"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "BEGINNER",
+      "xp": 0,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 7704,
+              "name": "Top-Quality Cooking Honey",
+              "grade": 2,
+              "icon": "new_icon/03_etc/07_productmaterial/00007704"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 5203,
+              "name": "Fruit of Abundance",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005203"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 9057,
+              "name": "Essence of Liquor",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00009057"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 781,
+        "name": "Spirit Perfume Elixir",
+        "grade": 3,
+        "icon": "new_icon/03_etc/08_potion/00000781"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "GURU",
+      "xp": 2000,
+      "effects": [
+        {
+          "effect": "MAX HP +300/Critical Hit Rate +5",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5019,
+              "name": "Dead Tree Essence",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005019"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5205,
+              "name": "Fruit of Nature",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005205"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5018,
+              "name": "Loopy Tree Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005018"
+            }
+          ],
+          "amount": 10
+        },
+        {
+          "item": [
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            }
+          ],
+          "amount": 10
+        },
+        {
+          "item": [
+            {
+              "id": 5526,
+              "name": "Violet Flower",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005526"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 6352,
+        "name": "Tyrant\u0027s Blood",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00006352"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 800,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5007,
+              "name": "Monk\u0027s Branch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005007"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5956,
+              "name": "Trace of Savagery",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005956"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5302,
+              "name": "Pure Powder Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005302"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6213,
+              "name": "Bear Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006213"
+            },
+            {
+              "id": 6220,
+              "name": "Troll Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006220"
+            },
+            {
+              "id": 6221,
+              "name": "Ogre Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006221"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 773,
+        "name": "Weenie Elixir",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000773"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "GURU",
+      "xp": 920,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5017,
+              "name": "Moss Tree Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005017"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 5516,
+              "name": "Blue Umbrella Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005516"
+            }
+          ],
+          "amount": 2
+        },
+        {
+          "item": [
+            {
+              "id": 4805,
+              "name": "Powder of Time",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004805"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 5007,
+              "name": "Monk\u0027s Branch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005007"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5525,
+              "name": "Sky Blue Flower",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005525"
+            }
+          ],
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 732,
+        "name": "Whale Tendon Elixir",
+        "grade": 2,
+        "icon": "new_icon/03_etc/07_productmaterial/00000732"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "SKILLED",
+      "xp": 1400,
+      "effects": [
+        {
+          "effect": "damage reduction +100/125",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 9729,
+              "name": "Blue Whale Tendon",
+              "grade": 1,
+              "icon": "new_icon/03_etc/07_productmaterial/00009729"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6353,
+              "name": "Clown\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006353"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5001,
+              "name": "Ash Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005001"
+            }
+          ],
+          "amount": 12
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 5
+        },
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 575,
+        "name": "Whale Tendon Potion",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000575"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 800,
+      "effects": [
+        {
+          "effect": "HP Recovery 500/750 MP/WP/SP 300/500",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 9729,
+              "name": "Blue Whale Tendon",
+              "grade": 1,
+              "icon": "new_icon/03_etc/07_productmaterial/00009729"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 518,
+              "name": "HP Potion (Medium)",
+              "grade": 0,
+              "icon": "new_icon/03_etc/08_potion/00000518"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 521,
+              "name": "MP Potion (Medium)",
+              "grade": 0,
+              "icon": "new_icon/03_etc/08_potion/00000521"
+            }
+          ],
+          "amount": 3
+        },
+        {
+          "item": [
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ],
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 6355,
+        "name": "Wise Man\u0027s Blood",
+        "grade": 0,
+        "icon": "new_icon/03_etc/07_productmaterial/00006355"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 800,
+      "effects": [
+        {
+          "effect": "None",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 5007,
+              "name": "Monk\u0027s Branch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005007"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5955,
+              "name": "Trace of Ascension",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005955"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5301,
+              "name": "Clear Liquid Reagent",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005301"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 6212,
+              "name": "Weasel Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006212"
+            },
+            {
+              "id": 6203,
+              "name": "Fox Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006203"
+            },
+            {
+              "id": 6210,
+              "name": "Raccoon Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006210"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 724,
+        "name": "Worker\u0027s Elixir",
+        "grade": 1,
+        "icon": "new_icon/03_etc/08_potion/00000724"
+      },
+      "lifeSkill": "ALCHEMY",
+      "level": "APPRENTICE",
+      "xp": 920,
+      "effects": [
+        {
+          "effect": "Gather Speed +2",
+          "amplifier": 0,
+          "percent": false
+        }
+      ],
+      "ingredients": [
+        {
+          "item": [
+            {
+              "id": 6354,
+              "name": "Sinner\u0027s Blood",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006354"
+            }
+          ],
+          "amount": 1
+        },
+        {
+          "item": [
+            {
+              "id": 5402,
+              "name": "Silver Azalea",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005402"
+            }
+          ],
+          "amount": 6
+        },
+        {
+          "item": [
+            {
+              "id": 5001,
+              "name": "Ash Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005001"
+            }
+          ],
+          "amount": 4
+        },
+        {
+          "item": [
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ],
+          "amount": 2
+        }
+      ]
+    }
+  ]
+}

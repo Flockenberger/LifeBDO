@@ -1,0 +1,414 @@
+Chopping;Acacia Plank;5 Acacia Timber;
+Chopping;Acacia Plywood;10 Acacia Plank;
+Chopping;Ash Plank;5 Ash Timber;
+Chopping;Ash Plywood;10 Ash Plank;
+Shaking;Barley Dough;1 Barley Flour;1 Mineral Water
+Grinding;Barley Flour;1 Barley;
+Chopping;Birch Plank;5 Birch Timber;
+Chopping;Birch Plywood;10 Birch Plank;
+Heating;Black Crystal;5 Rough Black Crystal;
+Heating;Black Gold Ingot;2 Pure Platinum Crystal;10 [Guild] Ocean Stalker's Skin
+Grinding;Black Stone Powder;1 Black Stone (Armor);
+Grinding;Black Stone Powder;1 Black Stone (Weapon);
+Shaking;Blood Ruby;7 Resplendent Ruby;3 Gem Polisher
+Heating;Blue Coral;10 Coral Piece;5 Sapphire
+Heating;Blue Coral;1 Blue Coral Earring;
+Heating;Blue Crystal;5 Rough Blue Crystal;
+Heating;Brass Ingot;5 Melted Copper Shard;5 Melted Zinc Shard
+Heating;Breezy White Coral;3 White Coral;1 Resplendent Diamond
+Heating;Brilliant Opal;10 Polished Opal;
+Heating;Bronze Ingot;5 Melted Copper Shard;5 Melted Tin Shard
+Shaking;Butter;1 Cream;1 Salt
+Shaking;Byproduct Fertilizer;3 Inorganic Fertilizer;2 Leavening Agent
+Chopping;Cedar Plank;5 Cedar Timber;
+Chopping;Cedar Plywood;10 Cedar Plank;
+Drying;Cheese;1 Milk;
+Grinding;Chicken Feed;20 Rough Stone;100 Barley
+Heating;Concentrated Magical Black Stone (Armor);1 Hard Black Crystal Shard;2 Black Stone (Armor)
+Heating;Concentrated Magical Black Stone (Weapon);1 Sharp Black Crystal Shard;2 Black Stone (Weapon)
+Grinding;Cooking Honey;3 Wild Beehive;
+Heating;Copper Ingot;10 Melted Copper Shard;
+Shaking;Corn Dough;1 Corn Flour;1 Mineral Water
+Grinding;Corn Flour;1 Corn;
+Grinding;Cotton Fabric;10 Cotton Yarn;
+Heating;Cotton Yarn;5 Cotton;
+Shaking;Cream;1 Milk;1 Sugar
+Heating;Daybreak Blue Coral;3 Blue Coral;1 Resplendent Sapphire
+Heating;Daybreak Blue Coral;1 Blue Coral Ring;
+Heating;Devourer Helmet;1 Cruhorn Helmet;1 Melted Saunil Steel Shard
+Grinding;Diamond;5 Rough Diamond;
+Heating;Distilled Water;1 Bottle of River Water;
+Heating;Distilled Water;1 Bottle of Turbid Water;
+Heating;Distilled Water;1 Bottle of Clean Water;
+Drying;Dried Abalone;1 Abalone;
+Drying;Dried Amberjack;1 Amberjack;
+Drying;Dried Amur Minnow;1 Amur Minnow;
+Drying;Dried Angler;1 Angler;
+Drying;Dried Arowana;1 Arowana;
+Drying;Dried Atka Mackerel;1 Atka Mackerel;
+Drying;Dried Barbel Steed;1 Barbel Steed;
+Drying;Dried Bass;1 Bass;
+Drying;Dried Beltfish;1 Beltfish;
+Drying;Dried Bigeye;1 Bigeye;
+Drying;Dried Bitterling;1 Bitterling;
+Drying;Dried Blackfin Sweeper;1 Blackfin Sweeper;
+Drying;Dried Bleeker;1 Bleeker;
+Drying;Dried Blue Tang;1 Blue Tang;
+Drying;Dried Bluefish;1 Bluefish;
+Drying;Dried Bluegill;1 Bluegill;
+Drying;Dried Bubble Eye;1 Bubble Eye;
+Drying;Dried Butterflyfish;1 Butterflyfish;
+Drying;Dried Carp;1 Carp;
+Drying;Dried Catfish;1 Catfish;
+Drying;Dried Cero;1 Cero;
+Drying;Dried Checkerboard Wrasse;1 Checkerboard Wrasse;
+Drying;Dried Cherry Salmon;1 Cherry Salmon;
+Drying;Dried Clownfish;1 Clownfish;
+Drying;Dried Common Minnow;1 Common Minnow;
+Drying;Dried Crab;1 Crab;
+Drying;Dried Crawfish;1 Crawfish;
+Drying;Dried Croaker;1 Croaker;
+Drying;Dried Crucian Carp;1 Crucian Carp;
+Drying;Dried Cuttlefish;1 Cuttlefish;
+Drying;Dried Cuvier;1 Cuvier;
+Drying;Dried Dace;1 Dace;
+Drying;Dried Diamond Minnow;1 Diamond Minnow;
+Drying;Dried Diamond Starfish;1 Diamond Starfish;
+Drying;Dried Dollarfish;1 Dollarfish;
+Drying;Dried Dolphinfish;1 Dolphinfish;
+Drying;Dried Filefish;1 Filefish;
+Drying;Dried Flatfish;1 Flatfish;
+Drying;Dried Flounder;1 Flounder;
+Drying;Dried Flying Fish;1 Flying Fish;
+Drying;Dried Fourfinger Threadfin;1 Fourfinger Threadfin;
+Drying;Dried Freshwater Eel;1 Freshwater Eel;
+Drying;Dried Goby Minnow;1 Goby Minnow;
+Drying;Dried Golden-Thread;1 Golden-Thread;
+Drying;Dried Grayling;1 Grayling;
+Drying;Dried Greenling;1 Greenling;
+Drying;Dried Grouper;1 Grouper;
+Drying;Dried Grunt;1 Grunt;
+Drying;Dried Gunnel;1 Gunnel;
+Drying;Dried Gurnard;1 Gurnard;
+Drying;Dried Herring;1 Herring;
+Drying;Dried Horn Fish;1 Horn Fish;
+Drying;Dried Jellyfish;1 Jellyfish;
+Drying;Dried John Dory;1 John Dory;
+Drying;Dried Kuhlia Marginata;1 Kuhlia Marginata;
+Drying;Dried Leather Carp;1 Leather Carp;
+Drying;Dried Lenok;1 Lenok;
+Drying;Dried Lobster;1 Lobster;
+Drying;Dried Mackerel;1 Mackerel;
+Drying;Dried Mackerel Pike;1 Mackerel Pike;
+Drying;Dried Mandarin Fish;1 Mandarin Fish;
+Drying;Dried Maomao;1 Maomao;
+Drying;Dried Miho Spine Loach;1 Miho Spine Loach;
+Drying;Dried Moray;1 Moray;
+Drying;Dried Mudfish;1 Mudfish;
+Drying;Dried Mudskipper;1 Mudskipper;
+Drying;Dried Mullet;1 Mullet;
+Drying;Dried Nibbler;1 Nibbler;
+Drying;Dried Notch Jaw;1 Notch Jaw;
+Drying;Dried Octopus;1 Octopus;
+Drying;Dried Pacu;1 Pacu;
+Drying;Dried Pearl Oyster Flesh;1 Pearl Oyster Flesh;
+Drying;Dried Perch;1 Perch;
+Drying;Dried Pintado;1 Pintado;
+Drying;Dried Piranha;1 Piranha;
+Drying;Dried Pomfret;1 Pomfret;
+Drying;Dried Porcupine Fish;1 Porcupine Fish;
+Drying;Dried Porgy;1 Porgy;
+Drying;Dried Ray;1 Ray;
+Drying;Dried Rock Hind;1 Rock Hind;
+Drying;Dried Rockfish;1 Rockfish;
+Drying;Dried Rosefish;1 Rosefish;
+Drying;Dried Rosy Bitterling;1 Rosy Bitterling;
+Drying;Dried Round Herring;1 Round Herring;
+Drying;Dried Roundtail Paradisefish;1 Roundtail Paradisefish;
+Drying;Dried Salmon;1 Salmon;
+Drying;Dried Sandeel;1 Sandeel;
+Drying;Dried Sandfish;1 Sandfish;
+Drying;Dried Sardine;1 Sardine;
+Drying;Dried Saurel;1 Saurel;
+Drying;Dried Scorpion Fish;1 Scorpion Fish;
+Drying;Dried Sea Bass;1 Sea Bass;
+Drying;Dried Sea Eel;1 Sea Eel;
+Drying;Dried Seahorse;1 Seahorse;
+Drying;Dried Shellfish;1 Shellfish;
+Drying;Dried Siganid;1 Siganid;
+Drying;Dried Silver Stripe Round Herring;1 Silver-Stripe Round Herring;
+Drying;Dried Skipjack;1 Skipjack;
+Drying;Dried Smelt;1 Smelt;
+Drying;Dried Smokey Chromis;1 Smokey Chromis;
+Drying;Dried Snakehead;1 Snakehead;
+Drying;Dried Soho Bitterling;1 Soho Bitterling;
+Drying;Dried Spotted Barbel;1 Spotted Barbel;
+Drying;Dried Squid;1 Squid;
+Drying;Dried Starfish;1 Starfish;
+Drying;Dried Striped Catfish;1 Striped Catfish;
+Drying;Dried Striped Shiner;1 Striped Shiner;
+Drying;Dried Stumpy Bullhead;1 Stumpy Bullhead;
+Drying;Dried Sturgeon;1 Sturgeon;
+Drying;Dried Sunfish;1 Sunfish;
+Drying;Dried Surfperch;1 Surfperch;
+Drying;Dried Sweetfish;1 Sweetfish;
+Drying;Dried Swellfish;1 Swellfish;
+Drying;Dried Swiri;1 Swiri;
+Drying;Dried Swordfish;1 Swordfish;
+Drying;Dried Tapertail Anchovy;1 Tapertail Anchovy;
+Drying;Dried Terrapin;1 Terrapin;
+Drying;Dried Tilefish;1 Tilefish;
+Drying;Dried Tongue Sole;1 Tongue Sole;
+Drying;Dried Trout;1 Trout;
+Drying;Dried Tuna;1 Tuna;
+Drying;Dried Whiting;1 Whiting;
+Drying;Dried Yellow-Head Catfish;1 Yellow-Head Catfish;
+Drying;Dried Yellowfin Sculpin;1 Yellowfin Sculpin;
+Chopping;Elder Tree Plank;5 Elder Tree Timber;
+Chopping;Elder Tree Plywood;10 Elder Tree Plank;
+Grinding;Emerald;5 Rough Emerald;
+Heating;Emerald;1 Tree Spirit Belt;
+Grinding;Enhanced Flax Fabric;5 Flax Fabric;5 Shining Powder
+Filtering;Fancy Feather;5 Flamingo Plume;
+Filtering;Fancy Feather;5 Griffon Feather;
+Drying;Fancy Reptile Skin;5 Waragon Hide;
+Drying;Fancy Reptile Skin;5 Cheetah Dragon Hide;
+Drying;Fancy Reptile Skin;5 Snake Skin;
+Filtering;Fine Fancy Feather;10 Fancy Feather;
+Drying;Fine Fancy Reptile Skin;10 Fancy Reptile Skin;
+Drying;Fine Hard Hide;10 Hard Hide;
+Filtering;Fine Lightweight Plume;10 Lightweight Plume;
+Drying;Fine Soft Hide;10 Soft Hide;
+Drying;Fine Thick Fur;10 Thick Fur;
+Drying;Fine Thin Hide;10 Thin Hide;
+Drying;Fine Tough Hide;10 Tough Hide;
+Chopping;Fir Plank;5 Fir Timber;
+Chopping;Fir Plywood;10 Fir Plank;
+Grinding;Flax Fabric;10 Flax Thread;
+Heating;Flax Thread;5 Flax;
+Shaking;Forest Emerald;7 Resplendent Emerald;3 Gem Polisher
+Drying;Fragrant Jerky;1 Fox Meat;
+Drying;Fragrant Jerky;1 Weasel Meat;
+Drying;Fragrant Jerky;1 Bear Meat;
+Drying;Fragrant Jerky;1 Wolf Meat;
+Grinding;Freekeh Flour;1 Freekeh;
+Shaking;Freekeh Flour Dough;1 Freekeh Flour;1 Mineral Water
+Heating;Glue;1 Lobster;
+Heating;Gold Ingot;10 Melted Gold Shard;
+Shaking;Gold Topaz;7 Resplendent Topaz;3 Gem Polisher
+Heating;Golden Coral;10 Coral Piece;1 Topaz
+Heating;Golden Sun Coral;3 Golden Coral;1 Resplendent Topaz
+Heating;Green Coral;10 Coral Piece;1 Emerald
+Heating;Green Crystal;5 Rough Green Crystal;
+Grinding;Ground Bird Meat;1 Bird Meat;
+Heating;Hard Black Crystal Shard;1 Scarla Necklace;
+Heating;Hard Black Crystal Shard;1 Bensho's Necklace;
+Drying;Hard Hide;5 Dinosaur Hide;
+Drying;Hard Hide;5 Lizard Hide;
+Drying;Hard Hide;5 Worm Hide;
+Heating;Hard Pillar;10 Log;10 Plywood Hardener
+Drying;Haystack;50 Weeds;
+Heating;Healing Stone;5 Rough Healing Stone;
+Shaking;Indigo Lapis Lazuli;7 Resplendent Lapis Lazuli;3 Gem Polisher
+Drying;Inorganic Fertilizer;5 Wheat;
+Drying;Inorganic Fertilizer;5 Barley;
+Drying;Inorganic Fertilizer;5 Potato;
+Drying;Inorganic Fertilizer;5 Sweet Potato;
+Drying;Inorganic Fertilizer;5 Corn;
+Grinding;Insectivore Plant Powder;5 Insectivore Plant Leaf;
+Grinding;Insectivore Plant Powder;5 Insectivore Plant Flower;
+Grinding;Insectivore Plant Sap;5 Insectivore Plant Root;
+Grinding;Insectivore Plant Sap;5 Insectivore Plant Stalk;
+Heating;Inverted Heart of Garmoth;1 Garmoth's Heart;1 Inverted Energy
+Heating;Iron Ingot;10 Melted Iron Shard;
+Heating;Jade Coral Ingot;25 Melted Titanium Shard;5 ANY Coral
+Heating;Knitting Yarn;5 Fleece;
+Grinding;Lapis Lazuli;5 Rough Lapis Lazuli;
+Heating;Lead Ingot;10 Melted Lead Shard;
+Filtering;Lightweight Plume;5 Soft Kuku Bird Plume;
+Filtering;Lightweight Plume;5 Soft Ferri Feather;
+Chopping;Loopy Tree Plank;5 Loopy Tree Timber;
+Chopping;Loopy Tree Plywood;10 Loopy Tree Plank;
+Heating;Lump of Raw Sugar;10 Raw Sugar;1 Mineral Water
+Chopping;Maple Plank;5 Maple Timber;
+Chopping;Maple Plywood;10 Maple Plank;
+Heating;Margoria Dark Iron;2 Pure Iron Crystal;1 [Guild] Hekaru's Spike
+Heating;Melted Copper Shard;5 Copper Ore;
+Heating;Melted Gold Shard;5 Gold Ore;
+Heating;Melted Iron Shard;5 Iron Ore;
+Heating;Melted Lead Shard;5 Lead Ore;
+Heating;Melted Mythril Shard;5 Mythril;
+Heating;Melted Noc Shard;5 Noc Ore;
+Heating;Melted Platinum Shard;5 Platinum Ore;
+Heating;Melted Silver Shard;5 Silver Ore;
+Heating;Melted Tin Shard;5 Tin Ore;
+Heating;Melted Titanium Shard;5 Titanium Ore;
+Heating;Melted Vanadium Shard;5 Vanadium Ore;
+Heating;Melted Zinc Shard;5 Zinc Ore;
+Heating;Moonlight Opal;3 Brilliant Opal;1 Metal Solvent
+Chopping;Moss Tree Plank;5 Moss Tree Timber;
+Chopping;Moss Tree Plywood;10 Moss Tree Plank;
+Heating;Mud Crystal;5 Rough Mud Crystal;
+Grinding;Mystical Spirit Powder;1 ANY Spirit Stone;
+Heating;Mythril Ingot;10 Melted Mythril Shard;
+Heating;Noc Ingot;10 Melted Noc Shard;
+Shaking;Ocean Sapphire;7 Resplendent Sapphire;3 Gem Polisher
+Shaking;Organic Fertilizer;1 Byproduct Fertilizer;2 Distilled Water
+Shaking;Organic Fertilizer;1 Byproduct Fertilizer;3 Bottle of Sea Water
+Shaking;Organic Fertilizer;1 Byproduct Fertilizer;3 Bottle of Turbid Water
+Shaking;Organic Fertilizer;1 Byproduct Fertilizer;3 Bottle of River Water
+Shaking;Organic Fertilizer;1 Byproduct Fertilizer;3 Bottle of Clean Water
+Shaking;Organic Fertilizer;1 Byproduct Fertilizer;2 Purified Water
+Chopping;Palm Plank;5 Palm Timber;
+Chopping;Palm Plywood;10 Palm Plank;
+Heating;Pine Coated Plywood;5 Pine Plywood;50 Coconut
+Chopping;Pine Plank;5 Pine Timber;
+Chopping;Pine Plywood;10 Pine Plank;
+Heating;Platinum Ingot;10 Melted Platinum Shard;
+Heating;Polished Opal;5 Rough Opal;
+Grinding;Polished Stone;10 Rough Stone;
+Shaking;Potato Dough;1 Potato Flour;1 Mineral Water
+Grinding;Potato Flour;1 Potato;
+Heating;Prairie Green Coral;3 Green Coral;1 Resplendent Emerald
+Heating;Processed Coal;5 Coal;
+Heating;Pure Copper Crystal;2 Metal Solvent;3 Copper Ingot
+Heating;Pure Gold Crystal;1 Metal Solvent;3 Gold Ingot
+Heating;Pure Iron Crystal;2 Metal Solvent;3 Iron Ingot
+Heating;Pure Lead Crystal;2 Metal Solvent;3 Lead Ingot
+Heating;Pure Mythril Crystal;1 Metal Solvent;3 Mythril Ingot
+Heating;Pure Noc Crystal;2 Metal Solvent;3 Noc Ingot
+Heating;Pure Platinum Crystal;1 Metal Solvent;3 Platinum Ingot
+Heating;Pure Silver Crystal;1 Metal Solvent;3 Silver Ingot
+Heating;Pure Tin Crystal;2 Metal Solvent;3 Tin Ingot
+Heating;Pure Titanium Crystal;2 Metal Solvent;3 Titanium Ingot
+Heating;Pure Vanadium Crystal;2 Metal Solvent;3 Vanadium Ingot
+Heating;Pure Zinc Crystal;2 Metal Solvent;3 Zinc Ingot
+Filtering;Purified Water;1 Bottle of River Water;
+Filtering;Purified Water;1 Bottle of Turbid Water;
+Filtering;Purified Water;1 Bottle of Clean Water;
+Filtering;Purified Water;5 Bag of Muddy Water;
+Filtering;Purified Water;5 Cactus Sap;
+Drying;Rare Jerky;1 Deer Meat;
+Drying;Rare Jerky;1 Rhino Meat;
+Drying;Rare Jerky;1 Pork;
+Drying;Rare Jerky;1 Beef;
+Drying;Rare Jerky;1 Dinosaur Meat;
+Drying;Rare Jerky;1 Worm Meat;
+Drying;Rare Jerky;1 Lion Meat;
+Drying;Rare Jerky;1 Waragon Meat;
+Drying;Rare Jerky;1 Cheetah Dragon Meat;
+Drying;Rare Jerky;1 Scorpion Meat;
+Heating;Red Coral;10 Coral Piece;1 Ruby
+Heating;Red Crystal;5 Rough Red Crystal;
+Heating;Red Spirit Crystal;100 Red Essence;100 Black Spirit Crystal
+Grinding;Resplendent Diamond;5 Rough Diamond;
+Grinding;Resplendent Emerald;5 Emerald;
+Grinding;Resplendent Lapis Lazuli;5 Lapis Lazuli;
+Grinding;Resplendent Ruby;5 Ruby;
+Grinding;Resplendent Sapphire;5 Sapphire;
+Grinding;Resplendent Topaz;5 Topaz;
+Grinding;Ruby;5 Rough Ruby;
+Heating;Salt;1 Bottle of Sea Water;
+Grinding;Sapphire;5 Rough Sapphire;
+Heating;Sharp Black Crystal Shard;1 Ogre Ring;
+Heating;Sharp Black Crystal Shard;1 Necklace of Good Deeds;
+Heating;Sharp Black Crystal Shard;1 Ancient Guardian's Seal;
+Heating;Sharp Black Crystal Shard;1 Witch's Earring;
+Heating;Sharp Black Crystal Shard;1 Ancient Weapon Core;
+Chopping;Ship Repair Material;2 ANY Plywood;
+Grinding;Silk;10 Silk Thread;
+Heating;Silk Thread;5 Silkworm Cocoon;
+Heating;Silver Ingot;10 Melted Silver Shard;
+Drying;Soft Hide;5 Deer Hide;
+Drying;Soft Hide;5 Sheep Hide;
+Drying;Soft Hide;5 Fox Hide;
+Drying;Soft Hide;5 Black Leopard Hide;
+Drying;Soft Hide;5 Gazelle Hide;
+Chopping;Standardized Timber Square;10 Usable Scantling;
+Shaking;Star Diamond;7 Resplendent Diamond;3 Gem Polisher
+Heating;Steel;5 Melted Iron Shard;5 Coal
+Heating;Sticky Blood;15 Cheetah Dragon Blood;5 White Cedar Sap
+Heating;Sturdy Acacia Plywood;10 Acacia Plywood;3 Plywood Hardener
+Heating;Sturdy Ash Plywood;10 Ash Plywood;3 Plywood Hardener
+Heating;Sturdy Birch Plywood;10 Birch Plywood;3 Plywood Hardener
+Heating;Sturdy Cedar Plywood;10 Cedar Plywood;3 Plywood Hardener
+Heating;Sturdy Elder Tree Plywood;10 Elder Tree Plywood;3 Plywood Hardener
+Heating;Sturdy Fir Plywood;10 Fir Plywood;3 Plywood Hardener
+Heating;Sturdy Loopy Tree Plywood;10 Loopy Tree Plywood;3 Plywood Hardener
+Heating;Sturdy Maple Plywood;10 Maple Plywood;3 Plywood Hardener
+Heating;Sturdy Moss Tree Plywood;10 Moss Tree Plywood;3 Plywood Hardener
+Heating;Sturdy Palm Plywood;10 Palm Plywood;3 Plywood Hardener
+Heating;Sturdy Pine Plywood;10 Pine Plywood;3 Plywood Hardener
+Heating;Sturdy Timber Square;10 Standardized Timber Square;3 Plywood Hardener
+Heating;Sturdy White Cedar Plywood;10 White Cedar Plywood;3 Plywood Hardener
+Shaking;Supreme Fancy Feather;3 Fine Fancy Feather;5 Leather Glaze
+Shaking;Supreme Fancy Reptile Skin;3 Fine Fancy Reptile Skin;5 Leather Glaze
+Shaking;Supreme Hard Hide;3 Fine Hard Hide;5 Leather Glaze
+Shaking;Supreme Lightweight Plume;3 Fine Lightweight Plume;5 Leather Glaze
+Shaking;Supreme Soft Hide;3 Fine Soft Hide;5 Leather Glaze
+Shaking;Supreme Thick Fur;3 Fine Thick Fur;5 Leather Glaze
+Shaking;Supreme Thin Hide;3 Fine Thin Hide;5 Leather Glaze
+Shaking;Supreme Tough Hide;3 Fine Tough Hide;5 Leather Glaze
+Shaking;Sweet Potato Dough;1 Sweet Potato Flour;1 Mineral Water
+Grinding;Sweet Potato Flour;1 Sweet Potato;
+Grinding;Teff Flour;1 Teff;
+Shaking;Teff Flour Dough;1 Teff Flour;1 Mineral Water
+Drying;Thick Fur;5 Bear Hide;
+Drying;Thick Fur;5 Wolf Hide;
+Drying;Thick Fur;5 Lion Hide;
+Drying;Thick Fur;5 Feather Wolf Hide;
+Drying;Thin Hide;5 Raccoon Hide;
+Drying;Thin Hide;5 Monkey Hide;
+Drying;Thin Hide;5 Weasel Hide;
+Heating;Tin Ingot;10 Melted Tin Shard;
+Heating;Titanium Ingot;10 Melted Titanium Shard;
+Grinding;Topaz;5 Rough Topaz;
+Shaking;Tough Flax Fabric;10 Flax Fabric;1 [Guild] Hekaru's Spike
+Drying;Tough Hide;5 Rhino Hide;
+Drying;Tough Hide;5 Pig Hide;
+Drying;Tough Hide;5 Ox Hide;
+Drying;Tough Hide;5 Belladonna Elephant Hide;
+Heating;Trace of Ascension;1 Yuria Longbow;
+Heating;Trace of Ascension;1 Yuria Staff;
+Heating;Trace of Battle;1 Bares Longbow;
+Heating;Trace of Battle;1 Bares Staff;
+Heating;Trace of Death;1 Seleth Longbow;
+Heating;Trace of Death;1 Seleth Staff;
+Heating;Trace of Despair;1 Krea Longbow;
+Heating;Trace of Despair;1 Krea Staff;
+Heating;Trace of Memory;1 Rosar Longbow;
+Heating;Trace of Memory;1 Rosar Staff;
+Heating;Trace of Origin;1 Black Warrior Horn Bow;
+Heating;Trace of Origin;1 White Horn Bow;
+Heating;Trace of Origin;1 White Warrior Horn Bow;
+Heating;Trace of Origin;1 Krea Horn Bow;
+Heating;Trace of Origin;1 Rosar Horn Bow;
+Heating;Trace of Savagery;1 Ain Longbow;
+Heating;Trace of Savagery;1 Ain Staff;
+Heating;Trace of Violence;1 Kalis Longbow;
+Heating;Trace of Violence;1 Kalis Staff;
+Heating;Translucent Crystal;5 Rough Translucent Crystal;
+Heating;Twilight Red Coral;3 Red Coral;1 Resplendent Ruby
+Heating;Twilight Red Coral;1 Red Coral Earring;
+Heating;Twilight Red Coral;1 Red Coral Ring;
+Heating;Ultimate Armor Reform Stone;10 Grade 3 Armor Reform Stone;1 Hard Black Crystal Shard
+Heating;Ultimate Delphad Castillion's Carnage Amulet;1 Delphad Castillion's Carnage Amulet;1 Targak Steel Shard
+Heating;Ultimate Weapon Reform Stone;10 Grade 3 Weapon Reform Stone;1 Sharp Black Crystal Shard
+Chopping;Usable Scantling;10 Log;
+Heating;Vanadium Ingot;10 Melted Vanadium Shard;
+Heating;Violet Crystal;5 Rough Violet Crystal;
+Drying;Well-Dried Jerky;1 Lamb Meat;
+Drying;Well-Dried Jerky;1 Lizard Meat;
+Drying;Well-Dried Jerky;1 Snake Meat;
+Drying;Well-Dried Jerky;1 Raccoon Meat;
+Drying;Well-Dried Jerky;1 Kuku Bird Meat;
+Drying;Well-Dried Jerky;1 Flamingo Meat;
+Shaking;Wheat Dough;1 Wheat Flour;1 Mineral Water
+Grinding;Wheat Flour;1 Wheat;
+Chopping;White Cedar Plank;5 White Cedar Timber;
+Chopping;White Cedar Plywood;10 White Cedar Plank;
+Heating;White Coral;10 Coral Piece;1 Diamond
+Heating;Wind Crystal Gloves;1 Ceasar's Gloves;1 Wind Crystal Ornament
+Grinding;Wool;10 Knitting Yarn;
+Drying;Worn Out Cloth;1 Washed-Up Laundry;
+Heating;Zinc Ingot;10 Melted Zinc Shard;
