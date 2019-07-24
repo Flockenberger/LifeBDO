@@ -1,0 +1,13 @@
+.settings/
+target/
+.classpath
+.project
+NodeSystemV*.jar
+logFile.*
+Modules/*
+hs_err_pid*.log
+/bin/
+src/main/java/at/crimsonbit/nodesystem/util/DragResizerXY.java
+Modules/
+log/
+Thumbs.db

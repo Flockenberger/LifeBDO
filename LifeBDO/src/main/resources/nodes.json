@@ -1,0 +1,4984 @@
+{
+  "nodes": [
+    {
+      "node": "ABANDONED_IRON_MINE",
+      "region": "MEDIAH",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4001,
+              "name": "Iron Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004001"
+            },
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            },
+            {
+              "id": 4410,
+              "name": "Rough Black Crystal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004410"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4005,
+              "name": "Zinc Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004005"
+            },
+            {
+              "id": 4805,
+              "name": "Powder of Time",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004805"
+            },
+            {
+              "id": 4203,
+              "name": "Platinum Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004203"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "AHTO_FARM",
+      "region": "MEDIAH",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 7347,
+              "name": "Aloe",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007347"
+            }
+          ]
+        },
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 5801,
+              "name": "Cotton",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005801"
+            },
+            {
+              "id": 5851,
+              "name": "Cotton Yarn",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005851"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "AKMAN",
+      "region": "VALENCIA",
+      "cpCost": 5,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 3012,
+              "name": "Goblin Fighter Mask",
+              "grade": 1,
+              "icon": "new_icon/03_etc/06_housing/inhouse_z_booty_goblinwarriormask_01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "AKUM_ROCKY_MOUNTAIN",
+      "region": "DRIEGHAN",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 5,
+          "items": [
+            {
+              "id": 4011,
+              "name": "Noc Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004011"
+            },
+            {
+              "id": 4413,
+              "name": "Rough Lapis Lazuli",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004413"
+            }
+          ]
+        },
+        {
+          "cpCost": 5,
+          "items": [
+            {
+              "id": 4001,
+              "name": "Iron Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004001"
+            },
+            {
+              "id": 4413,
+              "name": "Rough Lapis Lazuli",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004413"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "ALBRESSER_ISLAND",
+      "region": "SEA_WEST",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8512,
+              "name": "Dried Octopus",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008512"
+            },
+            {
+              "id": 8531,
+              "name": "Dried Ray",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008531"
+            },
+            {
+              "id": 8536,
+              "name": "Dried Mullet",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008536"
+            },
+            {
+              "id": 8578,
+              "name": "Dried Pintado",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008578"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "ALEJANDRO_FARM",
+      "region": "SERENDIA",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 7702,
+              "name": "Cooking Honey",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007702"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 1308,
+              "name": "[Spooky Halloween]  Eerie Pumpkin-colored Curtain",
+              "grade": 3,
+              "icon": "new_icon/03_etc/06_housing/inhouse_036_dpw_curtain_01_back"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "ALTAS_FARMLAND",
+      "region": "VALENCIA",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 6772,
+              "name": "Magical Teff Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006835"
+            }
+          ]
+        },
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 6772,
+              "name": "Magical Teff Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006835"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "ANCIENT_FISSURE",
+      "region": "MEDIAH",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 5405,
+              "name": "Silk Honey Grass",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005405"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4005,
+              "name": "Zinc Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004005"
+            },
+            {
+              "id": 4805,
+              "name": "Powder of Time",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004805"
+            },
+            {
+              "id": 4408,
+              "name": "Rough Red Crystal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004408"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "ANCIENT_FISSURE",
+      "region": "MEDIAH",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 5954,
+              "name": "Trace of the Earth",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005954"
+            },
+            {
+              "id": 5951,
+              "name": "Trace of Chaos",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005951"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "ANCIENT_STONE_CHAMBER",
+      "region": "BALENOS",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5955,
+              "name": "Trace of Ascension",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005955"
+            },
+            {
+              "id": 5954,
+              "name": "Trace of the Earth",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005954"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "ANGIE_ISLAND",
+      "region": "SEA_CENTRAL",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8530,
+              "name": "Dried Skipjack",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008530"
+            },
+            {
+              "id": 8534,
+              "name": "Dried Filefish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008534"
+            },
+            {
+              "id": 8568,
+              "name": "Dried Striped Catfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008568"
+            },
+            {
+              "id": 8573,
+              "name": "Dried Bluefish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008573"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8567,
+              "name": "Dried Dolphinfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008567"
+            },
+            {
+              "id": 8568,
+              "name": "Dried Striped Catfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008568"
+            },
+            {
+              "id": 8573,
+              "name": "Dried Bluefish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008573"
+            },
+            {
+              "id": 8602,
+              "name": "Dried Clownfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008602"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "AREHA_PALM_FOREST",
+      "region": "VALENCIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 7026,
+              "name": "Coconut",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007026"
+            },
+            {
+              "id": 4610,
+              "name": "Palm Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004610"
+            },
+            {
+              "id": 4670,
+              "name": "Palm Plank",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004670"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 7026,
+              "name": "Coconut",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007026"
+            },
+            {
+              "id": 4610,
+              "name": "Palm Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004610"
+            },
+            {
+              "id": 4670,
+              "name": "Palm Plank",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004670"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "BAEZA_ISLAND",
+      "region": "SEA_WEST",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8509,
+              "name": "Dried Saurel",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008509"
+            },
+            {
+              "id": 8512,
+              "name": "Dried Octopus",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008512"
+            },
+            {
+              "id": 8536,
+              "name": "Dried Mullet",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008536"
+            },
+            {
+              "id": 8571,
+              "name": "Dried Nibbler",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008571"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "BALENOS_FOREST",
+      "region": "BALENOS",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4601,
+              "name": "Ash Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004601"
+            },
+            {
+              "id": 5006,
+              "name": "Spirit\u0027s Leaf",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005006"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5401,
+              "name": "Sunrise Herb",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005401"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "BAMBU_VALLEY",
+      "region": "VALENCIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 6771,
+              "name": "Magical Freekeh Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006834"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "BARATER_ISLAND",
+      "region": "SEA_WEST",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8531,
+              "name": "Dried Ray",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008531"
+            },
+            {
+              "id": 8536,
+              "name": "Dried Mullet",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008536"
+            },
+            {
+              "id": 8574,
+              "name": "Dried Surfperch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008574"
+            },
+            {
+              "id": 8578,
+              "name": "Dried Pintado",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008578"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8509,
+              "name": "Dried Saurel",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008509"
+            },
+            {
+              "id": 8529,
+              "name": "Dried Flying Fish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008529"
+            },
+            {
+              "id": 8536,
+              "name": "Dried Mullet",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008536"
+            },
+            {
+              "id": 8585,
+              "name": "Dried Bigeye",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008585"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "BARTALI_FARM",
+      "region": "BALENOS",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 7921,
+              "name": "Chicken Meat",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007921"
+            },
+            {
+              "id": 2243,
+              "name": "Four-legged Dining Table",
+              "grade": 1,
+              "icon": "new_icon/03_etc/06_housing/inhouse_w_dff_table_03"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 6763,
+              "name": "Magical Seed Potato",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006806"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "BASHIM_BASE",
+      "region": "VALENCIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4001,
+              "name": "Iron Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004001"
+            },
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            },
+            {
+              "id": 4410,
+              "name": "Rough Black Crystal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004410"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "BAZAAR_FARMLAND",
+      "region": "VALENCIA",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 6770,
+              "name": "Magical Nutmeg Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006833"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 6772,
+              "name": "Magical Teff Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006835"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "BEHR_RIVERHEAD",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4004,
+              "name": "Tin Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004004"
+            },
+            {
+              "id": 4804,
+              "name": "Powder of Earth",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004804"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "BEIRUWA_ISLAND",
+      "region": "SEA_CENTRAL",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8560,
+              "name": "Dried Flatfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008560"
+            },
+            {
+              "id": 8566,
+              "name": "Dried Whiting",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008566"
+            },
+            {
+              "id": 8574,
+              "name": "Dried Surfperch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008574"
+            },
+            {
+              "id": 8603,
+              "name": "Dried Blue Tang",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008603"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "BERNIANTO_FARM",
+      "region": "CALPHEON",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5958,
+              "name": "Trace of Battle",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005958"
+            },
+            {
+              "id": 5960,
+              "name": "Trace of Forest",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005960"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "BREE_TREE_RUINS",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4604,
+              "name": "Birch Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004604"
+            },
+            {
+              "id": 5004,
+              "name": "Birch Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005004"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5412,
+              "name": "Tiger Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005412"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "CAPOTIA",
+      "region": "VALENCIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4003,
+              "name": "Copper Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004003"
+            },
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            },
+            {
+              "id": 4204,
+              "name": "Rough Opal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004204"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 6772,
+              "name": "Magical Teff Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006835"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "CASTA_FARM",
+      "region": "BALENOS",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 6758,
+              "name": "Magical Grape Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006801"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "CASTLE_RUINS",
+      "region": "SERENDIA",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4602,
+              "name": "Maple Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004602"
+            },
+            {
+              "id": 5002,
+              "name": "Maple Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "COASTAL_CAVE",
+      "region": "BALENOS",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4003,
+              "name": "Copper Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004003"
+            },
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4001,
+              "name": "Iron Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004001"
+            },
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "COASTAL_CLIFF",
+      "region": "BALENOS",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5407,
+              "name": "Fortune Teller Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005407"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4001,
+              "name": "Iron Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004001"
+            },
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "COSTA_FARM",
+      "region": "SERENDIA",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5802,
+              "name": "Flax",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005802"
+            },
+            {
+              "id": 5852,
+              "name": "Flax Thread",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005852"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 1308,
+              "name": "[Spooky Halloween]  Eerie Pumpkin-colored Curtain",
+              "grade": 3,
+              "icon": "new_icon/03_etc/06_housing/inhouse_036_dpw_curtain_01_back"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 6765,
+              "name": "Magical Wheat Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006808"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "CRESCENT_MOUNTAINS",
+      "region": "VALENCIA",
+      "cpCost": 3,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4001,
+              "name": "Iron Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004001"
+            },
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            },
+            {
+              "id": 4410,
+              "name": "Rough Black Crystal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004410"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4001,
+              "name": "Iron Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004001"
+            },
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            },
+            {
+              "id": 4410,
+              "name": "Rough Black Crystal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004410"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "CRESCENT_SHRINE",
+      "region": "VALENCIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 7016,
+              "name": "Date Palm",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007016"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4009,
+              "name": "Titanium Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004009"
+            },
+            {
+              "id": 4412,
+              "name": "Rough Violet Crystal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004412"
+            },
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "CRON_CASTLE_SITE",
+      "region": "BALENOS",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5401,
+              "name": "Sunrise Herb",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005401"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "DATON_ISLAND",
+      "region": "SEA_WEST",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8509,
+              "name": "Dried Saurel",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008509"
+            },
+            {
+              "id": 8525,
+              "name": "Dried Sea Bass",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008525"
+            },
+            {
+              "id": 8529,
+              "name": "Dried Flying Fish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008529"
+            },
+            {
+              "id": 8585,
+              "name": "Dried Bigeye",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008585"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "DELINGHART_ISLAND",
+      "region": "SEA_CENTRAL",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8508,
+              "name": "Dried Swellfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008508"
+            },
+            {
+              "id": 8560,
+              "name": "Dried Flatfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008560"
+            },
+            {
+              "id": 8566,
+              "name": "Dried Whiting",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008566"
+            },
+            {
+              "id": 8603,
+              "name": "Dried Blue Tang",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008603"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8510,
+              "name": "Dried Rockfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008510"
+            },
+            {
+              "id": 8564,
+              "name": "Dried Round Herring",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008564"
+            },
+            {
+              "id": 8574,
+              "name": "Dried Surfperch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008574"
+            },
+            {
+              "id": 8603,
+              "name": "Dried Blue Tang",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008603"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "DORMANN_LUMBER_CAMP",
+      "region": "DRIEGHAN",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 5,
+          "items": [
+            {
+              "id": 4616,
+              "name": "Thuja Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004616"
+            },
+            {
+              "id": 4701,
+              "name": "Thuja Plank",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004701"
+            },
+            {
+              "id": 5020,
+              "name": "Thuja Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005020"
+            }
+          ]
+        },
+        {
+          "cpCost": 5,
+          "items": [
+            {
+              "id": 4606,
+              "name": "Fir Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004606"
+            },
+            {
+              "id": 4663,
+              "name": "Fir Plank",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004663"
+            },
+            {
+              "id": 5009,
+              "name": "Fir Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "DUVENCRUNE_FARMLAND",
+      "region": "DRIEGHAN",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 6764,
+              "name": "Magical Barley Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006807"
+            }
+          ]
+        },
+        {
+          "cpCost": 5,
+          "items": [
+            {
+              "id": 6766,
+              "name": "Magical Corn Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006809"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "EHWAZ_HILL",
+      "region": "BALENOS",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4601,
+              "name": "Ash Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004601"
+            },
+            {
+              "id": 5001,
+              "name": "Ash Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005001"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5407,
+              "name": "Fortune Teller Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005407"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "ELRIC_SHRINE",
+      "region": "MEDIAH",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 5411,
+              "name": "Sky Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005411"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4608,
+              "name": "White Cedar Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004608"
+            },
+            {
+              "id": 5012,
+              "name": "White Cedar Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005012"
+            },
+            {
+              "id": 5005,
+              "name": "Bloody Tree Knot",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "EPHDE_RUNE_ISLAND",
+      "region": "SEA_CENTRAL",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8530,
+              "name": "Dried Skipjack",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008530"
+            },
+            {
+              "id": 8534,
+              "name": "Dried Filefish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008534"
+            },
+            {
+              "id": 8567,
+              "name": "Dried Dolphinfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008567"
+            },
+            {
+              "id": 8568,
+              "name": "Dried Striped Catfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008568"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "ERDAL_FARM",
+      "region": "VALENCIA",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 7016,
+              "name": "Date Palm",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007016"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 7017,
+              "name": "Pistachio",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007017"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 5853,
+              "name": "Silk Thread",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005853"
+            },
+            {
+              "id": 5803,
+              "name": "Silkworm Cocoon",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005803"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "FINTO_FARM",
+      "region": "BALENOS",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 7921,
+              "name": "Chicken Meat",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007921"
+            },
+            {
+              "id": 2243,
+              "name": "Four-legged Dining Table",
+              "grade": 1,
+              "icon": "new_icon/03_etc/06_housing/inhouse_w_dff_table_03"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 6763,
+              "name": "Magical Seed Potato",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006806"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "FOHALAM_FARM",
+      "region": "VALENCIA",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 6772,
+              "name": "Magical Teff Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006835"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 6772,
+              "name": "Magical Teff Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006835"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "FOREST_OF_PLUNDER",
+      "region": "BALENOS",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5408,
+              "name": "Arrow Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005408"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "FOREST_OF_SECLUSION",
+      "region": "BALENOS",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4003,
+              "name": "Copper Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004003"
+            },
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4602,
+              "name": "Maple Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004602"
+            },
+            {
+              "id": 5007,
+              "name": "Monk\u0027s Branch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "FOUNTAIN_OF_ORIGIN",
+      "region": "DRIEGHAN",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 5957,
+              "name": "Trace of Origin",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005957"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "GAVINYA_COASTAL_CLIFF",
+      "region": "VALENCIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 5401,
+              "name": "Sunrise Herb",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005401"
+            }
+          ]
+        },
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 4008,
+              "name": "Vanadium Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004008"
+            },
+            {
+              "id": 4204,
+              "name": "Rough Opal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004204"
+            },
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "GAVINYA_GREAT_CRATER",
+      "region": "VALENCIA",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 4009,
+              "name": "Titanium Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004009"
+            },
+            {
+              "id": 4411,
+              "name": "Rough Blue Crystal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004411"
+            },
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "GAVINYA_VOLCANO",
+      "region": "VALENCIA",
+      "cpCost": 3,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 4009,
+              "name": "Titanium Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004009"
+            },
+            {
+              "id": 4412,
+              "name": "Rough Violet Crystal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004412"
+            },
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ]
+        },
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 4008,
+              "name": "Vanadium Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004008"
+            },
+            {
+              "id": 4411,
+              "name": "Rough Blue Crystal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004411"
+            },
+            {
+              "id": 4803,
+              "name": "Powder of Crevice",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004803"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "GERVISH_MOUNTAINS",
+      "region": "DRIEGHAN",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 5532,
+              "name": "Bracken",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005532"
+            }
+          ]
+        },
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 5401,
+              "name": "Sunrise Herb",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005401"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "GLISH_RUINS",
+      "region": "SERENDIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5957,
+              "name": "Trace of Origin",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005957"
+            },
+            {
+              "id": 5959,
+              "name": "Trace of Hunting",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005959"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "GLISH_SWAMP",
+      "region": "SERENDIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5410,
+              "name": "Cloud Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005410"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4002,
+              "name": "Lead Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004002"
+            },
+            {
+              "id": 4805,
+              "name": "Powder of Time",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004805"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "GLUTONI_CAVE",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 210,
+              "name": "Brown Coal",
+              "grade": 0,
+              "icon": "new_icon/06_pc_equipitem/00_common/00_etc/00000210"
+            },
+            {
+              "id": 4803,
+              "name": "Powder of Crevice",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004803"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5413,
+              "name": "Emperor Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005413"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "GOBLIN_CAVE",
+      "region": "BALENOS",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4601,
+              "name": "Ash Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004601"
+            },
+            {
+              "id": 5006,
+              "name": "Spirit\u0027s Leaf",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005006"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4003,
+              "name": "Copper Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004003"
+            },
+            {
+              "id": 4406,
+              "name": "Rough Translucent Crystal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004406"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "GORGO_ROCK_BELT",
+      "region": "VALENCIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4611,
+              "name": "Elder Tree Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004611"
+            },
+            {
+              "id": 4673,
+              "name": "Elder Tree Plank",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004673"
+            },
+            {
+              "id": 5014,
+              "name": "Elder Tree Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005014"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 7017,
+              "name": "Pistachio",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "HEXE_STONE_WALL",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4001,
+              "name": "Iron Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004001"
+            },
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "HOLO_FOREST",
+      "region": "KAMASYLVIA",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 4011,
+              "name": "Noc Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004011"
+            },
+            {
+              "id": 4805,
+              "name": "Powder of Time",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004805"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "IMP_CAVE",
+      "region": "BALENOS",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4003,
+              "name": "Copper Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004003"
+            },
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4003,
+              "name": "Copper Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004003"
+            },
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "INVERNEN_ISLAND",
+      "region": "SEA_ISLAND",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8509,
+              "name": "Dried Saurel",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008509"
+            },
+            {
+              "id": 8526,
+              "name": "Dried Angler",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008526"
+            },
+            {
+              "id": 8567,
+              "name": "Dried Dolphinfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008567"
+            },
+            {
+              "id": 8568,
+              "name": "Dried Striped Catfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008568"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8509,
+              "name": "Dried Saurel",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008509"
+            },
+            {
+              "id": 8530,
+              "name": "Dried Skipjack",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008530"
+            },
+            {
+              "id": 8567,
+              "name": "Dried Dolphinfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008567"
+            },
+            {
+              "id": 8568,
+              "name": "Dried Striped Catfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008568"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "IRIS_CANYON",
+      "region": "VALENCIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4611,
+              "name": "Elder Tree Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004611"
+            },
+            {
+              "id": 4673,
+              "name": "Elder Tree Plank",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004673"
+            },
+            {
+              "id": 5014,
+              "name": "Elder Tree Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005014"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 6770,
+              "name": "Magical Nutmeg Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006833"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "IVERO_CLIFF",
+      "region": "VALENCIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 5408,
+              "name": "Arrow Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005408"
+            },
+            {
+              "id": 5451,
+              "name": "High-Quality Arrow Mushroom",
+              "grade": 1,
+              "icon": "new_icon/03_etc/07_productmaterial/00005408"
+            },
+            {
+              "id": 5471,
+              "name": "Special Arrow Mushroom",
+              "grade": 2,
+              "icon": "new_icon/03_etc/07_productmaterial/00005408"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "KAMASILVE_TEMPLE",
+      "region": "MEDIAH",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 5802,
+              "name": "Flax",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005802"
+            },
+            {
+              "id": 5852,
+              "name": "Flax Thread",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005852"
+            }
+          ]
+        },
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 5412,
+              "name": "Tiger Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005412"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "KARANDA_RIDGE",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5405,
+              "name": "Silk Honey Grass",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005405"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "KASULA_FARM",
+      "region": "MEDIAH",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 7348,
+              "name": "Cinnamon",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007348"
+            }
+          ]
+        },
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 5801,
+              "name": "Cotton",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005801"
+            },
+            {
+              "id": 5851,
+              "name": "Cotton Yarn",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005851"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "KEPLAN_QUARRY",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 210,
+              "name": "Brown Coal",
+              "grade": 0,
+              "icon": "new_icon/06_pc_equipitem/00_common/00_etc/00000210"
+            },
+            {
+              "id": 4803,
+              "name": "Powder of Crevice",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004803"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "KHALK_CANYON",
+      "region": "DRIEGHAN",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 5,
+          "items": [
+            {
+              "id": 4005,
+              "name": "Zinc Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004005"
+            },
+            {
+              "id": 4206,
+              "name": "Mythril",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004206"
+            }
+          ]
+        },
+        {
+          "cpCost": 5,
+          "items": [
+            {
+              "id": 4011,
+              "name": "Noc Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004011"
+            },
+            {
+              "id": 4206,
+              "name": "Mythril",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004206"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "KHIMUT_LUMBER_CAMP",
+      "region": "DRIEGHAN",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 5,
+          "items": [
+            {
+              "id": 4604,
+              "name": "Birch Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004604"
+            },
+            {
+              "id": 4660,
+              "name": "Birch Plank",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004660"
+            },
+            {
+              "id": 5004,
+              "name": "Birch Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005004"
+            }
+          ]
+        },
+        {
+          "cpCost": 5,
+          "items": [
+            {
+              "id": 4603,
+              "name": "Pine Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004603"
+            },
+            {
+              "id": 4657,
+              "name": "Pine Plank",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004657"
+            },
+            {
+              "id": 5003,
+              "name": "Pine Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "KHURUTO_CAVE",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4004,
+              "name": "Tin Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004004"
+            },
+            {
+              "id": 4408,
+              "name": "Rough Red Crystal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004408"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "KMACH_CANYON",
+      "region": "VALENCIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 5494,
+              "name": "Star Anise Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005494"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4008,
+              "name": "Vanadium Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004008"
+            },
+            {
+              "id": 4411,
+              "name": "Rough Blue Crystal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004411"
+            },
+            {
+              "id": 4803,
+              "name": "Powder of Crevice",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004803"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "KUNIDS_VACATION_SPOT",
+      "region": "VALENCIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 6657,
+              "name": "Bag of Muddy Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006657"
+            },
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "LAKE_FLONDOR",
+      "region": "KAMASYLVIA",
+      "cpCost": 3,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 4011,
+              "name": "Noc Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004011"
+            },
+            {
+              "id": 4804,
+              "name": "Powder of Earth",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004804"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "LEICAL_FALLS",
+      "region": "VALENCIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 6657,
+              "name": "Bag of Muddy Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006657"
+            },
+            {
+              "id": 6656,
+              "name": "Purified Water",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006656"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "LISZ_ISLAND",
+      "region": "SEA_CENTRAL",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8502,
+              "name": "Dried Tuna",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008502"
+            },
+            {
+              "id": 8568,
+              "name": "Dried Striped Catfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008568"
+            },
+            {
+              "id": 8573,
+              "name": "Dried Bluefish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008573"
+            },
+            {
+              "id": 8604,
+              "name": "Dried Checkerboard Wrasse",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008604"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8530,
+              "name": "Dried Skipjack",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008530"
+            },
+            {
+              "id": 8534,
+              "name": "Dried Filefish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008534"
+            },
+            {
+              "id": 8567,
+              "name": "Dried Dolphinfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008567"
+            },
+            {
+              "id": 8598,
+              "name": "Dried Tapertail Anchovy",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008598"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "LOGGIA_FARM",
+      "region": "BALENOS",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 6763,
+              "name": "Magical Seed Potato",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006806"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "LONGLEAF_TREE_FOREST",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4607,
+              "name": "Cedar Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004607"
+            },
+            {
+              "id": 5010,
+              "name": "Cedar Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "LONGLEAF_TREE_SENTRY_POST",
+      "region": "CALPHEON",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5405,
+              "name": "Silk Honey Grass",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005405"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "LOONEY_CABIN",
+      "region": "KAMASYLVIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 5519,
+              "name": "White Umbrella Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005519"
+            },
+            {
+              "id": 5521,
+              "name": "White Flower Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005521"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "LOOPY_TREE_FOREST",
+      "region": "KAMASYLVIA",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 4615,
+              "name": "Loopy Tree Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004615"
+            },
+            {
+              "id": 4697,
+              "name": "Loopy Tree Plank",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004697"
+            },
+            {
+              "id": 5018,
+              "name": "Loopy Tree Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "LOURUVE_ISLAND",
+      "region": "SEA_CENTRAL",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8502,
+              "name": "Dried Tuna",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008502"
+            },
+            {
+              "id": 8568,
+              "name": "Dried Striped Catfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008568"
+            },
+            {
+              "id": 8602,
+              "name": "Dried Clownfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008602"
+            },
+            {
+              "id": 8604,
+              "name": "Dried Checkerboard Wrasse",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008604"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "LUIVANO_ISLAND",
+      "region": "SEA_CENTRAL",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8530,
+              "name": "Dried Skipjack",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008530"
+            },
+            {
+              "id": 8567,
+              "name": "Dried Dolphinfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008567"
+            },
+            {
+              "id": 8568,
+              "name": "Dried Striped Catfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008568"
+            },
+            {
+              "id": 8574,
+              "name": "Dried Surfperch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008574"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "LUMBERJACKS_REST_AREA",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4607,
+              "name": "Cedar Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004607"
+            },
+            {
+              "id": 5006,
+              "name": "Spirit\u0027s Leaf",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "LYNCH_FARM_RUINS",
+      "region": "SERENDIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5402,
+              "name": "Silver Azalea",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005402"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5956,
+              "name": "Trace of Savagery",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005956"
+            },
+            {
+              "id": 5959,
+              "name": "Trace of Hunting",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005959"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "LYNCH_FARM_RUINS",
+      "region": "SERENDIA",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5804,
+              "name": "Fleece",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005804"
+            },
+            {
+              "id": 5854,
+              "name": "Knitting Yarn",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005854"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "MANSHA_FOREST",
+      "region": "CALPHEON",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4606,
+              "name": "Fir Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004606"
+            },
+            {
+              "id": 5009,
+              "name": "Fir Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005009"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5961,
+              "name": "Trace of Violence",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005961"
+            },
+            {
+              "id": 5952,
+              "name": "Trace of Despair",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005952"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "MARAK_FARM",
+      "region": "DRIEGHAN",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 6766,
+              "name": "Magical Corn Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006809"
+            }
+          ]
+        },
+        {
+          "cpCost": 5,
+          "items": [
+            {
+              "id": 6764,
+              "name": "Magical Barley Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006807"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "MARIE_CAVE",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5414,
+              "name": "Ghost Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005414"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4603,
+              "name": "Pine Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004603"
+            },
+            {
+              "id": 5003,
+              "name": "Pine Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "MARIVENO_ISLAND",
+      "region": "SEA_CENTRAL",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8568,
+              "name": "Dried Striped Catfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008568"
+            },
+            {
+              "id": 8572,
+              "name": "Dried Siganid",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008572"
+            },
+            {
+              "id": 8573,
+              "name": "Dried Bluefish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008573"
+            },
+            {
+              "id": 8602,
+              "name": "Dried Clownfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008602"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8530,
+              "name": "Dried Skipjack",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008530"
+            },
+            {
+              "id": 8534,
+              "name": "Dried Filefish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008534"
+            },
+            {
+              "id": 8568,
+              "name": "Dried Striped Catfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008568"
+            },
+            {
+              "id": 8572,
+              "name": "Dried Siganid",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008572"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "MARNIS_2ND",
+      "region": "MEDIAH",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 5405,
+              "name": "Silk Honey Grass",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005405"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "MEDIAH_NORTHERN_HIGHLANDS",
+      "region": "MEDIAH",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4602,
+              "name": "Maple Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004602"
+            },
+            {
+              "id": 5002,
+              "name": "Maple Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005002"
+            },
+            {
+              "id": 5008,
+              "name": "Old Tree Bark",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005008"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4608,
+              "name": "White Cedar Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004608"
+            },
+            {
+              "id": 5012,
+              "name": "White Cedar Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005012"
+            },
+            {
+              "id": 5008,
+              "name": "Old Tree Bark",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "MEDIAH_NORTHERN_HIGHLANDS",
+      "region": "MEDIAH",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4003,
+              "name": "Copper Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004003"
+            },
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            },
+            {
+              "id": 4204,
+              "name": "Rough Opal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004204"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "MODRIC_ISLAND",
+      "region": "SEA_WEST",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8509,
+              "name": "Dried Saurel",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008509"
+            },
+            {
+              "id": 8556,
+              "name": "Dried Cero",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008556"
+            },
+            {
+              "id": 8574,
+              "name": "Dried Surfperch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008574"
+            },
+            {
+              "id": 8585,
+              "name": "Dried Bigeye",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008585"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "MORETTI_PLANTATION",
+      "region": "SERENDIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5802,
+              "name": "Flax",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005802"
+            },
+            {
+              "id": 5852,
+              "name": "Flax Thread",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005852"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 6765,
+              "name": "Magical Wheat Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006808"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "NADA_ISLAND",
+      "region": "SEA_MARGORIA",
+      "cpCost": 3,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 6509,
+              "name": "Giant Pearl Oyster",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006509"
+            },
+            {
+              "id": 8525,
+              "name": "Dried Sea Bass",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008525"
+            },
+            {
+              "id": 8527,
+              "name": "Dried Swordfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008527"
+            },
+            {
+              "id": 8529,
+              "name": "Dried Flying Fish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008529"
+            }
+          ]
+        },
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 6516,
+              "name": "Shrimp",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006516"
+            },
+            {
+              "id": 8525,
+              "name": "Dried Sea Bass",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008525"
+            },
+            {
+              "id": 8527,
+              "name": "Dried Swordfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008527"
+            },
+            {
+              "id": 8529,
+              "name": "Dried Flying Fish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008529"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "MEDIAH_NORTHERN_HIGHLANDS",
+      "region": "SERENDIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5409,
+              "name": "Dwarf Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005409"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "NORTHERN_HEIDEL_QUARRY",
+      "region": "SERENDIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4003,
+              "name": "Copper Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004003"
+            },
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4001,
+              "name": "Iron Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004001"
+            },
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "NORTHERN_PLAIN_OF_SERENDIA",
+      "region": "SERENDIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4602,
+              "name": "Maple Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004602"
+            },
+            {
+              "id": 5011,
+              "name": "Red Tree Lump",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005011"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5402,
+              "name": "Silver Azalea",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005402"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "NORTHERN_SAND_DUNE",
+      "region": "VALENCIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 4612,
+              "name": "Cactus Rind",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004612"
+            },
+            {
+              "id": 4683,
+              "name": "Cactus Thorn",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004683"
+            },
+            {
+              "id": 5016,
+              "name": "Cactus Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005016"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "NORTHERN_WHEAT_PLANTATION",
+      "region": "CALPHEON",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 6764,
+              "name": "Magical Barley Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006807"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 6762,
+              "name": "Magical Paprika Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006805"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 6765,
+              "name": "Magical Wheat Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006808"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "OBEN_ISLAND",
+      "region": "SEA_WEST",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8508,
+              "name": "Dried Swellfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008508"
+            },
+            {
+              "id": 8536,
+              "name": "Dried Mullet",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008536"
+            },
+            {
+              "id": 8574,
+              "name": "Dried Surfperch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008574"
+            },
+            {
+              "id": 8578,
+              "name": "Dried Pintado",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008578"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8508,
+              "name": "Dried Swellfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008508"
+            },
+            {
+              "id": 8509,
+              "name": "Dried Saurel",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008509"
+            },
+            {
+              "id": 8529,
+              "name": "Dried Flying Fish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008529"
+            },
+            {
+              "id": 8585,
+              "name": "Dried Bigeye",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008585"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "OLD_DANDELION",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4604,
+              "name": "Birch Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004604"
+            },
+            {
+              "id": 5011,
+              "name": "Red Tree Lump",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005011"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "OMAR_LAVA_CAVE",
+      "region": "MEDIAH",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 210,
+              "name": "Brown Coal",
+              "grade": 0,
+              "icon": "new_icon/06_pc_equipitem/00_common/00_etc/00000210"
+            },
+            {
+              "id": 4803,
+              "name": "Powder of Crevice",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004803"
+            },
+            {
+              "id": 4401,
+              "name": "Rough Ruby",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004401"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4005,
+              "name": "Zinc Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004005"
+            },
+            {
+              "id": 4805,
+              "name": "Powder of Time",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004805"
+            },
+            {
+              "id": 4203,
+              "name": "Platinum Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004203"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "ORFFS_ISLAND",
+      "region": "SEA_ISLAND",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8509,
+              "name": "Dried Saurel",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008509"
+            },
+            {
+              "id": 8561,
+              "name": "Dried Grunt",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008561"
+            },
+            {
+              "id": 8567,
+              "name": "Dried Dolphinfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008567"
+            },
+            {
+              "id": 8568,
+              "name": "Dried Striped Catfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008568"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "OZE_PASS",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4607,
+              "name": "Cedar Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004607"
+            },
+            {
+              "id": 5007,
+              "name": "Monk\u0027s Branch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "PHONIELS_CABIN",
+      "region": "CALPHEON",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4606,
+              "name": "Fir Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004606"
+            },
+            {
+              "id": 5009,
+              "name": "Fir Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "PILAVA_ISLAND",
+      "region": "SEA_CENTRAL",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8560,
+              "name": "Dried Flatfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008560"
+            },
+            {
+              "id": 8561,
+              "name": "Dried Grunt",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008561"
+            },
+            {
+              "id": 8566,
+              "name": "Dried Whiting",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008566"
+            },
+            {
+              "id": 8603,
+              "name": "Dried Blue Tang",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008603"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8510,
+              "name": "Dried Rockfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008510"
+            },
+            {
+              "id": 8564,
+              "name": "Dried Round Herring",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008564"
+            },
+            {
+              "id": 8584,
+              "name": "Dried Grouper",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008584"
+            },
+            {
+              "id": 8603,
+              "name": "Dried Blue Tang",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008603"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "PILGRIMS_HAVEN",
+      "region": "VALENCIA",
+      "cpCost": 3,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4612,
+              "name": "Cactus Rind",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004612"
+            },
+            {
+              "id": 5016,
+              "name": "Cactus Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005016"
+            },
+            {
+              "id": 4683,
+              "name": "Cactus Thorn",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004683"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4001,
+              "name": "Iron Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004001"
+            },
+            {
+              "id": 4801,
+              "name": "Powder of Darkness",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004801"
+            },
+            {
+              "id": 4410,
+              "name": "Rough Black Crystal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004410"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "PILGRIMS_HAVEN",
+      "region": "VALENCIA",
+      "cpCost": 3,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5963,
+              "name": "Trace of Memory",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005963"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "POLLYS_FOREST",
+      "region": "KAMASYLVIA",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 5516,
+              "name": "Blue Umbrella Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005516"
+            },
+            {
+              "id": 5518,
+              "name": "Pink Trumpet Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005518"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "PRIMAL_GIANT_POST",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4002,
+              "name": "Lead Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004002"
+            },
+            {
+              "id": 4803,
+              "name": "Powder of Crevice",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004803"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "PUJARA_ISLAND",
+      "region": "SEA_CENTRAL",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8527,
+              "name": "Dried Swordfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008527"
+            },
+            {
+              "id": 8530,
+              "name": "Dried Skipjack",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008530"
+            },
+            {
+              "id": 8534,
+              "name": "Dried Filefish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008534"
+            },
+            {
+              "id": 8602,
+              "name": "Dried Clownfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008602"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8530,
+              "name": "Dried Skipjack",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008530"
+            },
+            {
+              "id": 8567,
+              "name": "Dried Dolphinfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008567"
+            },
+            {
+              "id": 8568,
+              "name": "Dried Striped Catfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008568"
+            },
+            {
+              "id": 8570,
+              "name": "Dried Golden-Thread",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008570"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "PUJIYA_CANYON",
+      "region": "VALENCIA",
+      "cpCost": 3,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4003,
+              "name": "Copper Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004003"
+            },
+            {
+              "id": 4802,
+              "name": "Powder of Flame",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004802"
+            },
+            {
+              "id": 4204,
+              "name": "Rough Opal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004204"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "QUINT_HILL",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4604,
+              "name": "Birch Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004604"
+            },
+            {
+              "id": 5011,
+              "name": "Red Tree Lump",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005011"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4002,
+              "name": "Lead Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004002"
+            },
+            {
+              "id": 4805,
+              "name": "Powder of Time",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004805"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "RANDIS_ISLAND",
+      "region": "SEA_WEST",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8509,
+              "name": "Dried Saurel",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008509"
+            },
+            {
+              "id": 8512,
+              "name": "Dried Octopus",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008512"
+            },
+            {
+              "id": 8577,
+              "name": "Dried Maomao",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008577"
+            },
+            {
+              "id": 8585,
+              "name": "Dried Bigeye",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008585"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8535,
+              "name": "Dried Scorpion Fish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008535"
+            },
+            {
+              "id": 8578,
+              "name": "Dried Pintado",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008578"
+            },
+            {
+              "id": 8581,
+              "name": "Dried John Dory",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008581"
+            },
+            {
+              "id": 8585,
+              "name": "Dried Bigeye",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008585"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "RHUA_TREE_STUB",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5413,
+              "name": "Emperor Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005413"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5960,
+              "name": "Trace of Forest",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005960"
+            },
+            {
+              "id": 5952,
+              "name": "Trace of Despair",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005952"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "RHUTUM_OUTSTATION",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4004,
+              "name": "Tin Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004004"
+            },
+            {
+              "id": 4409,
+              "name": "Rough Green Crystal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004409"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "ROUD_SULFUR_WORKS",
+      "region": "VALENCIA",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 5,
+          "items": [
+            {
+              "id": 4010,
+              "name": "Sulfur",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004010"
+            },
+            {
+              "id": 4405,
+              "name": "Rough Diamond",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004405"
+            },
+            {
+              "id": 4803,
+              "name": "Powder of Crevice",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004803"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "SERCA_ISLAND",
+      "region": "SEA_WEST",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8507,
+              "name": "Dried Porgy",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008507"
+            },
+            {
+              "id": 8529,
+              "name": "Dried Flying Fish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008529"
+            },
+            {
+              "id": 8535,
+              "name": "Dried Scorpion Fish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008535"
+            },
+            {
+              "id": 8536,
+              "name": "Dried Mullet",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008536"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "NORTHERN_PLAIN_OF_SERENDIA",
+      "region": "SERENDIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4603,
+              "name": "Pine Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004603"
+            },
+            {
+              "id": 5007,
+              "name": "Monk\u0027s Branch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "SHADY_TREE_FOREST",
+      "region": "KAMASYLVIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4614,
+              "name": "Moss Tree Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004614"
+            },
+            {
+              "id": 4694,
+              "name": "Moss Tree Plank",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004694"
+            },
+            {
+              "id": 5017,
+              "name": "Moss Tree Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "SHAKATU_FARMLAND",
+      "region": "VALENCIA",
+      "cpCost": 3,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 3012,
+              "name": "Goblin Fighter Mask",
+              "grade": 1,
+              "icon": "new_icon/03_etc/06_housing/inhouse_z_booty_goblinwarriormask_01"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 5494,
+              "name": "Star Anise Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005494"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 3012,
+              "name": "Goblin Fighter Mask",
+              "grade": 1,
+              "icon": "new_icon/03_etc/06_housing/inhouse_z_booty_goblinwarriormask_01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "SHEREKHAN_NECROPOLIS",
+      "region": "DRIEGHAN",
+      "cpCost": 3,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 5963,
+              "name": "Trace of Memory",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005963"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "SHURI_FARM",
+      "region": "MEDIAH",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 6767,
+              "name": "Magical Seed Sweet Potato",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006810"
+            },
+            {
+              "id": 7009,
+              "name": "High-Quality Sweet Potato",
+              "grade": 1,
+              "icon": "new_icon/03_etc/07_productmaterial/00007004"
+            },
+            {
+              "id": 7014,
+              "name": "Special Sweet Potato",
+              "grade": 2,
+              "icon": "new_icon/03_etc/07_productmaterial/00007004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "SOUTHERN_CIENAGA",
+      "region": "SERENDIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5410,
+              "name": "Cloud Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005410"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4001,
+              "name": "Iron Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004001"
+            },
+            {
+              "id": 4407,
+              "name": "Rough Mud Crystal",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004407"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "SOUTHERN_CIENAGA",
+      "region": "KAMASYLVIA",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 4011,
+              "name": "Noc Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004011"
+            },
+            {
+              "id": 4803,
+              "name": "Powder of Crevice",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004803"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "STARS_END",
+      "region": "STARS_END",
+      "cpCost": 3,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4003,
+              "name": "Copper Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004003"
+            },
+            {
+              "id": 4057,
+              "name": "Melted Copper Shard",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004057"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 5961,
+              "name": "Trace of Violence",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005961"
+            },
+            {
+              "id": 5962,
+              "name": "Trace of Death",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005962"
+            },
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "node": "STAREN_ISLAND",
+      "region": "SEA_CENTRAL",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8502,
+              "name": "Dried Tuna",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008502"
+            },
+            {
+              "id": 8535,
+              "name": "Dried Scorpion Fish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008535"
+            },
+            {
+              "id": 8568,
+              "name": "Dried Striped Catfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008568"
+            },
+            {
+              "id": 8604,
+              "name": "Dried Checkerboard Wrasse",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008604"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8510,
+              "name": "Dried Rockfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008510"
+            },
+            {
+              "id": 8534,
+              "name": "Dried Filefish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008534"
+            },
+            {
+              "id": 8567,
+              "name": "Dried Dolphinfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008567"
+            },
+            {
+              "id": 8598,
+              "name": "Dried Tapertail Anchovy",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008598"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "STONETAIL_WASTELAND",
+      "region": "MEDIAH",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4609,
+              "name": "Acacia Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004609"
+            },
+            {
+              "id": 5013,
+              "name": "Acacia Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005013"
+            },
+            {
+              "id": 5005,
+              "name": "Bloody Tree Knot",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "TARAMURA_ISLAND",
+      "region": "SEA_CENTRAL",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8560,
+              "name": "Dried Flatfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008560"
+            },
+            {
+              "id": 8566,
+              "name": "Dried Whiting",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008566"
+            },
+            {
+              "id": 8603,
+              "name": "Dried Blue Tang",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008603"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8510,
+              "name": "Dried Rockfish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008510"
+            },
+            {
+              "id": 8564,
+              "name": "Dried Round Herring",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008564"
+            },
+            {
+              "id": 8566,
+              "name": "Dried Whiting",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008566"
+            },
+            {
+              "id": 8574,
+              "name": "Dried Surfperch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008574"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "TEYAMAL_ISLAND",
+      "region": "SEA_WEST",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8509,
+              "name": "Dried Saurel",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008509"
+            },
+            {
+              "id": 8512,
+              "name": "Dried Octopus",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008512"
+            },
+            {
+              "id": 8556,
+              "name": "Dried Cero",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008556"
+            },
+            {
+              "id": 8578,
+              "name": "Dried Pintado",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008578"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8509,
+              "name": "Dried Saurel",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008509"
+            },
+            {
+              "id": 8529,
+              "name": "Dried Flying Fish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008529"
+            },
+            {
+              "id": 8574,
+              "name": "Dried Surfperch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008574"
+            },
+            {
+              "id": 8579,
+              "name": "Dried Gurnard",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008579"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "THERMIAN_CLIFF",
+      "region": "BALENOS",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4003,
+              "name": "Copper Ore",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "TITIUM_VALLEY",
+      "region": "VALENCIA",
+      "cpCost": 3,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4610,
+              "name": "Palm Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004610"
+            },
+            {
+              "id": 4670,
+              "name": "Palm Plank",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004670"
+            },
+            {
+              "id": 5015,
+              "name": "Palm Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005015"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 7017,
+              "name": "Pistachio",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007017"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 6772,
+              "name": "Magical Teff Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006835"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "TOOTH_FAIRY_FOREST",
+      "region": "KAMASYLVIA",
+      "cpCost": 3,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 5522,
+              "name": "Vedelona",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005522"
+            },
+            {
+              "id": 5960,
+              "name": "Trace of Forest",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005960"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "TOSCANI_FARM",
+      "region": "BALENOS",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 6766,
+              "name": "Magical Corn Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006809"
+            }
+          ]
+        },
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 6766,
+              "name": "Magical Corn Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006809"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "TREANT_FOREST",
+      "region": "CALPHEON",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4606,
+              "name": "Fir Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004606"
+            },
+            {
+              "id": 5005,
+              "name": "Bloody Tree Knot",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "TSHIRA_RUINS",
+      "region": "DRIEGHAN",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 5532,
+              "name": "Bracken",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005532"
+            }
+          ]
+        },
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 5404,
+              "name": "Dry Mane Grass",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005404"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "VALENCIA_PLANTATION",
+      "region": "VALENCIA",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 7016,
+              "name": "Date Palm",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007016"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 6771,
+              "name": "Magical Freekeh Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006834"
+            }
+          ]
+        },
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 7017,
+              "name": "Pistachio",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00007017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "VETERANS_CANYON",
+      "region": "VALENCIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 3,
+          "items": [
+            {
+              "id": 4611,
+              "name": "Elder Tree Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004611"
+            },
+            {
+              "id": 4673,
+              "name": "Elder Tree Plank",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004673"
+            },
+            {
+              "id": 5014,
+              "name": "Elder Tree Sap",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "VIV_FORETTAS_CABIN",
+      "region": "KAMASYLVIA",
+      "cpCost": 2,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 6704,
+              "name": "Strawberry Seed",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00006704"
+            },
+            {
+              "id": 6708,
+              "name": "High-Quality Strawberry Seed",
+              "grade": 1,
+              "icon": "new_icon/03_etc/07_productmaterial/00006704"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "WALE_FARM",
+      "region": "BALENOS",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 6760,
+              "name": "Magical Olive Seed",
+              "grade": 3,
+              "icon": "new_icon/03_etc/07_productmaterial/00006803"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "WEENIE_CABIN",
+      "region": "KAMASYLVIA",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 2,
+          "items": [
+            {
+              "id": 5517,
+              "name": "Volcanic Umbrella Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005517"
+            },
+            {
+              "id": 5520,
+              "name": "Green Pendulous Mushroom",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00005520"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "WEITA_ISLAND",
+      "region": "SEA_CENTRAL",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 8571,
+              "name": "Dried Nibbler",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008571"
+            },
+            {
+              "id": 8573,
+              "name": "Dried Bluefish",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008573"
+            },
+            {
+              "id": 8574,
+              "name": "Dried Surfperch",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008574"
+            },
+            {
+              "id": 8577,
+              "name": "Dried Maomao",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00008577"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "WOLF_HILLS",
+      "region": "BALENOS",
+      "cpCost": 1,
+      "subNodes": [
+        {
+          "cpCost": 1,
+          "items": [
+            {
+              "id": 4601,
+              "name": "Ash Timber",
+              "grade": 0,
+              "icon": "new_icon/03_etc/07_productmaterial/00004601"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
