@@ -3,6 +3,8 @@ Currently the "api" is very simple, it will get more features over time!
 
 Here is a little example on how to use it and what is currently possible
 
+More doc can be found here: https://flockenberger.github.io/LifeBDO/
+
 ```java
 public static void main(String[] args) {
 
