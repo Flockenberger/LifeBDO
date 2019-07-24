@@ -9,5 +9,5 @@ They are not all 100% complete but will get more and more done over time.
 I am currently in the process of writing a simple Java API to get/search Items/Recipes etc. and to do simple calculations for recipes like amount needed, time etc. 
 This will be up here soon.
 
-What's also possible is to fetch live market prices, buy and sell items aswell. Altough this is very easy and already implemented in my api, I am not going to release this "feature" anytime soon, as this would break the game quite a bit.
+What's also possible is to fetch live market prices, buy and sell items aswell. I know how to do it, I have tried it and I have also reported it to the GMs as I want the game to be fair. BUT I am NOT going to release this, as this would break the game quite a bit.
 So do not ask me about this, thanks.
